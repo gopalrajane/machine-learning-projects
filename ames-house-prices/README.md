@@ -98,4 +98,42 @@ Six regression models trained and evaluated on the validation set using **MAE, M
 
 ---
 
-## 📁 Repository Structure (suggested)
+## 📁 Repository Structure 
+house-price-prediction/
+│
+├── train.csv # training dataset (with target)
+├── test.csv # test dataset (no target)
+├── train.ipynb # main notebook (EDA + preprocessing + modeling)
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
+```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost
+```
+2. Place `train.csv` and `test.csv` in the project root.
+3. Open `train.ipynb` in VS Code / Jupyter and run all cells sequentially.
+
+---
+
+## 📈 Key Takeaways
+
+- Missing-value strategy matters a lot here — many "missing" values actually mean "feature absent" (e.g., no garage, no basement), so filling with `"None"`/`0` is more correct than mean/median imputation.
+- Combining one-hot encoding (nominal features) with ordinal encoding (ranked quality features) preserves more information than one-hot-encoding everything.
+- IQR-based outlier capping across many area/size features reduces skew and stabilizes model training without deleting rows.
+- Tree-based ensembles (Random Forest, XGBoost, Gradient Boosting) are expected to outperform plain Linear Regression given the high dimensionality and non-linear feature relationships.
+
+---
+
+## 🔮 Future Improvements
+
+- Log-transform `SalePrice` (typically right-skewed) before training, and inverse-transform predictions for evaluation
+- Cross-validate each model (currently only a single train/validation split) for more reliable comparison
+- Consolidate the leaderboard into a single comparison table/DataFrame instead of separate print statements per model
+- Hyperparameter tuning (GridSearchCV/RandomizedSearchCV) for XGBoost and Random Forest
+- Feature importance analysis to identify top price drivers
+
