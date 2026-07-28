@@ -112,3 +112,37 @@ Final processed dataset exported as `housing_price.csv`
 ---
 
 ## 📁 Repository Structure (suggested)
+│
+├── housing.csv # raw dataset
+├── housing_price_.ipynb # main notebook (EDA + modeling)
+└── README.md
+
+
+---
+
+## 🚀 How to Run
+
+1. Install dependencies:
+```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn scipy
+```
+2. Place `housing.csv` in the project root.
+3. Open the notebook in VS Code / Jupyter and run all cells sequentially.
+
+---
+
+## 📈 Key Takeaways
+
+- `RM` and `LSTAT` are the strongest predictors of house price.
+- Power Transformation (Yeo-Johnson) improved feature normality, aiding linear model performance.
+- Ensemble models (Random Forest, Gradient Boosting) outperformed plain Linear Regression.
+- Log-transforming a skewed target variable is a useful trick to stabilize model training.
+
+---
+
+## 🔮 Future Improvements
+
+- Reconsider dropped features (`RAD`, `AGE`, `INDUS`) with proper correlation analysis instead of dropping outright
+- Add cross-validation scores for Gradient Boosting, not just a single train/test split
+- Try XGBoost / LightGBM for further performance gains
+- Add residual plots to diagnose model errors visually
