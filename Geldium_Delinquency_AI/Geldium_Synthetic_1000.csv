@@ -1,0 +1,1001 @@
+Customer_ID,Age,Income,Credit_Score,Credit_Utilization,Missed_Payments,Loan_Balance,Debt_to_Income_Ratio,Account_Tenure,Employment_Status,Credit_Card_Type,Location,Month_1,Month_2,Month_3,Month_4,Month_5,Month_6,Delinquent_Account
+CUST_1001,56,39441.61,596,0.186,5,15952.41,0.369,2,Self-employed,Business,New York,Late,On-time,On-time,Missed,On-time,Missed,0
+CUST_1002,69,96068.95,463,0.588,4,44456.56,0.28,3,Self-employed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1003,46,55598.65,616,0.481,2,28061.74,0.261,9,Employed,Gold,New York,On-time,Late,Late,Late,Late,On-time,1
+CUST_1004,32,135168.59,521,0.619,0,34429.69,0.219,6,Self-employed,Standard,New York,Missed,On-time,On-time,On-time,On-time,On-time,0
+CUST_1005,60,117935.68,532,0.359,4,48120.17,0.223,0,Self-employed,Standard,Los Angeles,On-time,Missed,Late,On-time,Late,On-time,0
+CUST_1006,25,65511.41,633,0.504,2,27026.7,0.332,5,retired,Standard,Los Angeles,Late,On-time,On-time,Late,On-time,On-time,1
+CUST_1007,38,79354.89,691,0.785,2,29720.17,0.168,7,Employed,Gold,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1008,56,62086.22,582,0.355,5,31851.81,0.399,16,Employed,Student,Houston,On-time,On-time,Late,Late,Missed,Missed,1
+CUST_1009,36,97218.85,608,0.347,3,37716.59,0.247,6,Employed,Standard,Los Angeles,On-time,Late,Late,On-time,Late,On-time,1
+CUST_1010,40,153697.17,733,0.437,4,59740.44,0.285,0,Unemployed,Gold,Los Angeles,On-time,Late,Missed,Missed,On-time,On-time,1
+CUST_1011,28,64173.7,602,0.179,0,23039.45,0.166,8,Unemployed,Standard,Los Angeles,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1012,28,125460.52,814,0.844,2,86815.65,0.299,10,Self-employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1013,41,78771.74,631,0.282,3,13228.69,0.267,18,Employed,Gold,New York,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1014,70,69991.75,422,0.849,3,42608.46,0.295,1,Employed,Standard,Houston,On-time,Late,On-time,Late,On-time,Late,0
+CUST_1015,53,95297.78,648,0.231,2,46218.79,0.447,10,Employed,Gold,Houston,On-time,Missed,On-time,Late,On-time,Missed,1
+CUST_1016,57,62759.57,614,0.5,3,23327.66,0.318,2,Self-employed,Standard,Phoenix,Late,Late,Missed,On-time,Missed,On-time,0
+CUST_1017,41,77946.91,696,0.567,2,34040.53,0.221,16,Employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1018,20,58330.5,641,0.553,2,37061.01,0.229,9,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1019,39,242086.84,568,0.688,4,140124.27,0.36,2,Self-employed,Gold,Los Angeles,On-time,Late,On-time,Missed,On-time,On-time,1
+CUST_1020,70,101599.52,470,0.49,4,23973.99,0.43,2,Employed,Standard,Chicago,On-time,Missed,On-time,Late,On-time,Late,0
+CUST_1021,19,72987.9,561,0.425,1,11062.26,0.328,6,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1022,41,110107.94,503,0.618,4,31772.49,0.369,1,Employed,Student,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1023,61,95070.87,528,0.613,1,30167.58,0.361,0,Unemployed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1024,47,90534.76,633,0.472,4,43848.95,0.442,6,Self-employed,Standard,Houston,Late,On-time,On-time,Missed,Late,On-time,0
+CUST_1025,55,131834.22,730,0.733,0,75913.19,0.105,19,retired,Gold,New York,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1026,19,140618.23,616,0.477,1,66882.12,0.367,10,Employed,Platinum,Chicago,On-time,Late,Late,On-time,On-time,On-time,0
+CUST_1027,38,78763.1,472,0.508,4,27349.88,0.398,5,retired,Standard,Houston,On-time,On-time,Missed,On-time,Late,On-time,1
+CUST_1028,50,77173.18,620,0.618,3,24702.24,0.166,3,Unemployed,Student,New York,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1029,29,88358.02,688,0.738,2,46976.61,0.211,18,Self-employed,Business,Phoenix,Late,On-time,On-time,On-time,Late,On-time,0
+CUST_1030,39,35491.94,525,0.329,2,8286.64,0.215,18,retired,Student,Chicago,On-time,Missed,On-time,Late,On-time,On-time,0
+CUST_1031,61,50568.77,568,0.369,1,23094.3,0.227,13,Employed,Student,Los Angeles,Late,On-time,On-time,Late,On-time,On-time,0
+CUST_1032,42,184982.94,581,0.691,2,94795.39,0.252,2,Employed,Platinum,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1033,66,209642.91,509,0.687,1,107815.66,0.324,3,Employed,Platinum,New York,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1034,44,89398.51,638,0.676,3,19653.53,0.387,7,Self-employed,Platinum,Houston,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1035,59,129621.78,569,0.305,1,22512.57,0.408,17,Self-employed,Student,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1036,45,115034.58,618,0.512,1,19848.73,0.216,3,Unemployed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1037,33,300000.0,500,0.193,2,127202.76,0.216,10,Employed,Standard,Phoenix,On-time,On-time,Late,On-time,Late,On-time,1
+CUST_1038,32,165501.27,541,0.258,5,89983.97,0.432,15,Employed,Gold,Phoenix,On-time,Late,Missed,On-time,On-time,On-time,1
+CUST_1039,64,94406.25,645,0.739,5,8188.12,0.365,2,Employed,Student,Phoenix,Missed,Late,On-time,Missed,Late,Late,0
+CUST_1040,68,65051.35,546,0.858,1,49544.68,0.308,6,Self-employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1041,61,48534.23,735,0.613,3,29918.97,0.347,1,Employed,Platinum,New York,On-time,Missed,Missed,On-time,On-time,On-time,1
+CUST_1042,72,109588.1,544,0.496,5,50612.66,0.297,0,retired,Business,Chicago,Late,Late,On-time,Late,On-time,Late,1
+CUST_1043,69,71151.57,600,0.38,1,43066.93,0.352,0,Employed,Platinum,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1044,74,52728.5,664,0.156,5,8751.24,0.266,5,Employed,Business,Houston,Missed,Late,On-time,Late,On-time,Late,0
+CUST_1045,20,74754.72,452,0.858,0,37115.5,0.327,18,Unemployed,Platinum,Los Angeles,On-time,Missed,On-time,On-time,On-time,Late,1
+CUST_1046,54,61465.35,422,0.701,3,8660.98,0.149,6,Employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,Missed,1
+CUST_1047,68,213659.56,443,0.336,3,71325.93,0.231,4,Employed,Student,Los Angeles,On-time,On-time,Late,On-time,Late,On-time,1
+CUST_1048,24,148696.61,694,0.586,1,101736.2,0.232,17,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1049,38,99641.87,530,0.218,0,69562.9,0.263,12,Employed,Gold,Phoenix,On-time,On-time,On-time,Missed,Late,On-time,0
+CUST_1050,26,194638.71,810,0.532,1,87822.12,0.207,0,retired,Standard,Phoenix,On-time,On-time,On-time,On-time,Missed,Late,0
+CUST_1051,56,103542.89,529,0.69,3,49988.35,0.247,9,Self-employed,Standard,New York,On-time,Missed,On-time,On-time,On-time,Late,0
+CUST_1052,35,67869.88,597,0.501,2,23038.15,0.149,8,Employed,Gold,Houston,Late,Late,Late,On-time,Missed,Missed,1
+CUST_1053,21,198457.71,719,0.561,1,111987.43,0.355,16,Self-employed,Gold,Los Angeles,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1054,42,127444.34,761,0.337,6,36564.49,0.292,0,Employed,Platinum,Houston,On-time,On-time,On-time,Late,Late,Missed,1
+CUST_1055,31,62703.01,766,0.81,0,22219.7,0.129,0,Unemployed,Student,Phoenix,On-time,On-time,Late,Late,On-time,Late,1
+CUST_1056,67,91791.32,689,0.711,0,42222.72,0.217,6,retired,Standard,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1057,26,67433.5,672,0.446,3,48534.67,0.334,3,Unemployed,Standard,Chicago,Late,On-time,On-time,Missed,On-time,Late,0
+CUST_1058,43,53673.01,633,0.387,3,30045.11,0.246,11,Employed,Platinum,Chicago,Missed,On-time,Late,On-time,On-time,On-time,0
+CUST_1059,70,151706.86,650,0.798,1,75521.77,0.23,15,Employed,Platinum,New York,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1060,19,236135.94,530,0.603,5,149183.98,0.293,13,Employed,Business,Houston,Late,Late,On-time,On-time,Late,Missed,1
+CUST_1061,37,53293.52,506,0.493,4,32281.2,0.334,9,Self-employed,Standard,Chicago,On-time,Missed,On-time,Late,Late,On-time,0
+CUST_1062,45,128831.63,580,0.222,2,73545.92,0.156,13,Employed,Student,Chicago,Late,On-time,Late,On-time,Missed,Late,0
+CUST_1063,64,74617.95,565,0.385,3,25877.77,0.355,6,Employed,Gold,Houston,Late,Late,On-time,On-time,Missed,On-time,0
+CUST_1064,24,80315.59,539,0.759,4,47670.92,0.22,3,retired,Platinum,Phoenix,On-time,On-time,On-time,On-time,Missed,Missed,0
+CUST_1065,61,76599.68,643,0.12,0,45497.71,0.298,1,Employed,Standard,New York,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1066,25,67787.26,666,0.149,2,46346.3,0.296,17,Employed,Gold,New York,Late,Missed,Late,On-time,On-time,Missed,0
+CUST_1067,64,102207.49,588,0.394,1,40959.28,0.247,15,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1068,52,68802.68,713,0.434,3,27880.14,0.198,8,Employed,Standard,Chicago,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1069,31,112942.15,477,0.764,5,66513.61,0.271,4,Employed,Gold,Phoenix,Late,On-time,On-time,Late,Missed,On-time,1
+CUST_1070,34,97764.65,563,0.404,4,44532.58,0.463,8,Employed,Student,New York,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1071,53,89805.26,515,0.61,2,21231.19,0.164,7,Employed,Platinum,Houston,On-time,Late,Late,On-time,On-time,On-time,0
+CUST_1072,67,66471.05,412,0.631,3,20984.61,0.469,19,Employed,Gold,New York,On-time,On-time,Late,Late,On-time,Late,0
+CUST_1073,57,77140.09,573,0.622,2,38011.2,0.274,15,Unemployed,Gold,Los Angeles,On-time,Late,Missed,On-time,On-time,On-time,1
+CUST_1074,21,140484.37,569,0.708,3,39359.25,0.304,19,Employed,Gold,Phoenix,Late,On-time,On-time,Late,On-time,Late,1
+CUST_1075,19,125283.97,716,0.643,2,68067.7,0.191,17,Self-employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1076,23,64410.09,637,0.201,1,15231.16,0.223,3,Employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1077,71,104571.36,488,0.462,4,55605.81,0.25,15,Employed,Standard,Houston,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1078,59,140231.47,747,0.812,0,46386.06,0.195,3,retired,Standard,Chicago,On-time,Late,On-time,Missed,Late,On-time,0
+CUST_1079,21,47178.48,690,0.75,2,12646.85,0.279,5,Employed,Platinum,Chicago,On-time,On-time,Missed,Missed,Late,On-time,1
+CUST_1080,71,127699.81,632,0.449,2,43734.61,0.259,2,Employed,Gold,Phoenix,On-time,On-time,On-time,Missed,On-time,Missed,0
+CUST_1081,46,74216.72,560,0.736,1,6391.42,0.485,17,Unemployed,Standard,New York,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1082,35,129274.7,494,0.387,4,74721.05,0.183,14,Self-employed,Student,Los Angeles,Late,On-time,Late,Missed,Late,On-time,0
+CUST_1083,43,70930.72,547,0.592,4,13207.24,0.31,7,Employed,Platinum,Houston,Missed,On-time,On-time,Late,On-time,Missed,1
+CUST_1084,61,44388.18,678,0.419,3,17103.64,0.325,17,Employed,Platinum,New York,Late,On-time,Late,Late,Late,On-time,0
+CUST_1085,51,48075.66,750,0.744,3,10540.99,0.193,2,Self-employed,Standard,Chicago,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1086,27,102187.4,719,0.522,5,33095.21,0.369,5,Unemployed,Gold,New York,Late,On-time,On-time,Missed,Late,Missed,0
+CUST_1087,53,112397.91,536,0.568,2,69361.33,0.26,14,Employed,Business,Los Angeles,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1088,31,66568.25,479,0.217,1,5000.0,0.1,11,Employed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1089,48,133291.28,593,0.732,2,44012.46,0.366,4,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1090,65,47346.18,421,0.415,2,23145.76,0.188,6,Employed,Standard,Houston,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1091,32,97070.19,609,0.441,4,65571.75,0.195,14,Employed,Gold,Houston,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1092,25,57986.65,567,0.602,1,52433.95,0.369,6,Employed,Gold,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1093,31,74577.88,538,0.764,3,33561.89,0.265,12,Employed,Platinum,Phoenix,Late,On-time,On-time,Late,On-time,On-time,1
+CUST_1094,40,102155.85,436,0.497,6,26200.43,0.392,2,Employed,Business,Los Angeles,Late,On-time,Late,On-time,Late,Late,1
+CUST_1095,74,67896.48,626,0.413,4,22731.34,0.421,12,retired,Gold,Houston,Missed,Missed,On-time,Late,On-time,Missed,0
+CUST_1096,57,84109.56,532,0.463,4,19259.65,0.236,2,Employed,Standard,Chicago,On-time,Late,Late,On-time,Missed,On-time,0
+CUST_1097,38,157275.96,475,0.615,2,67744.23,0.379,1,Employed,Student,Houston,Missed,On-time,Missed,On-time,Late,Late,0
+CUST_1098,33,77135.9,321,0.687,2,35189.77,0.224,3,Employed,Standard,Phoenix,Late,Missed,Late,On-time,On-time,Late,0
+CUST_1099,62,145653.66,578,0.65,5,65019.22,0.523,16,retired,Business,Los Angeles,Missed,On-time,Late,On-time,Late,Missed,1
+CUST_1100,35,60147.63,740,0.389,2,19040.19,0.231,5,Unemployed,Platinum,Phoenix,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1101,64,126923.19,730,0.732,1,71094.44,0.403,10,Unemployed,Business,New York,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1102,70,191306.35,539,0.639,2,84718.58,0.384,5,Employed,Standard,Phoenix,Late,On-time,On-time,Late,Late,On-time,1
+CUST_1103,41,32882.16,526,0.595,4,5000.0,0.332,1,Unemployed,Standard,Phoenix,Missed,Missed,On-time,On-time,Late,Late,1
+CUST_1104,43,69865.18,622,0.63,2,44451.99,0.233,16,Employed,Gold,Houston,On-time,Missed,Late,Missed,Missed,On-time,0
+CUST_1105,42,129651.83,490,0.611,4,48210.14,0.285,2,Employed,Gold,Phoenix,On-time,On-time,Late,Missed,Late,On-time,1
+CUST_1106,62,91267.96,607,0.637,1,31040.08,0.1,11,Self-employed,Standard,Chicago,On-time,Missed,Missed,On-time,On-time,On-time,0
+CUST_1107,58,118177.28,649,0.597,3,58952.96,0.322,13,Unemployed,Business,Houston,Late,Missed,On-time,On-time,On-time,Late,0
+CUST_1108,46,76201.17,690,0.237,5,48302.55,0.335,1,Unemployed,Student,Houston,Missed,Late,Missed,On-time,Late,On-time,1
+CUST_1109,32,103973.45,571,0.22,4,46627.24,0.313,4,Unemployed,Platinum,New York,On-time,Missed,On-time,Late,Late,Missed,1
+CUST_1110,62,93234.28,562,0.678,1,9372.96,0.1,9,retired,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1111,18,169130.75,501,0.197,2,35714.0,0.173,9,Employed,Platinum,Phoenix,On-time,Late,Missed,Late,On-time,On-time,1
+CUST_1112,42,112130.07,506,0.398,2,60495.92,0.225,8,Employed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1113,24,116406.85,560,0.616,6,37526.67,0.329,12,Employed,Gold,Chicago,Missed,On-time,On-time,On-time,On-time,On-time,1
+CUST_1114,26,83081.79,613,0.663,2,63101.59,0.329,9,Unemployed,Business,New York,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1115,41,80298.21,662,0.556,3,55195.87,0.283,5,Employed,Standard,Los Angeles,Late,On-time,Late,On-time,Late,On-time,0
+CUST_1116,18,82312.17,508,0.512,3,40637.38,0.364,10,Unemployed,Standard,Phoenix,Late,Late,On-time,On-time,On-time,On-time,1
+CUST_1117,61,119423.22,714,0.364,5,40355.27,0.197,3,Employed,Standard,New York,Late,Late,Late,On-time,Late,Missed,0
+CUST_1118,25,82741.99,556,0.934,3,45673.87,0.361,13,Employed,Student,Los Angeles,On-time,On-time,On-time,Late,On-time,Late,1
+CUST_1119,41,113928.25,578,0.572,2,29824.9,0.347,16,Employed,Platinum,Phoenix,Late,On-time,On-time,Late,On-time,Missed,1
+CUST_1120,28,254449.03,513,0.836,2,50300.7,0.338,19,Employed,Standard,New York,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1121,68,147994.68,362,0.722,1,31684.11,0.282,1,Unemployed,Standard,New York,Late,Late,On-time,On-time,On-time,On-time,1
+CUST_1122,34,86354.39,660,0.505,3,38060.06,0.483,9,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1123,25,171694.45,646,0.674,5,109360.04,0.349,2,Employed,Standard,New York,Missed,Late,Late,Missed,Missed,Missed,1
+CUST_1124,52,83224.04,555,0.171,3,37581.5,0.203,6,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1125,52,39965.4,586,0.052,2,5000.0,0.325,6,Employed,Standard,New York,On-time,On-time,On-time,On-time,Late,Missed,1
+CUST_1126,50,63531.21,626,0.568,2,57079.33,0.375,0,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1127,22,43090.99,439,0.347,3,5000.0,0.241,7,Employed,Student,Houston,Missed,Missed,Missed,On-time,On-time,Missed,1
+CUST_1128,59,85369.52,532,0.643,2,36219.49,0.409,0,Unemployed,Gold,Los Angeles,Missed,Late,On-time,Missed,Late,Missed,0
+CUST_1129,56,100832.27,651,0.349,4,13727.48,0.338,7,Employed,Platinum,Phoenix,On-time,On-time,On-time,Missed,On-time,On-time,1
+CUST_1130,58,212632.85,467,0.351,3,31422.56,0.1,13,Employed,Standard,Houston,On-time,On-time,On-time,On-time,Missed,On-time,1
+CUST_1131,45,115848.99,606,0.33,3,65503.37,0.33,13,Self-employed,Gold,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1132,24,90610.94,458,0.477,0,25177.58,0.259,1,Employed,Gold,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1133,26,145242.2,622,0.445,2,64296.06,0.354,7,Employed,Standard,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1134,25,36971.94,577,0.704,4,5000.0,0.394,18,Employed,Standard,Los Angeles,On-time,Late,Missed,Late,Missed,On-time,1
+CUST_1135,29,111185.14,435,0.221,2,16374.74,0.32,9,Employed,Student,Chicago,Late,On-time,On-time,On-time,Missed,On-time,1
+CUST_1136,51,141466.02,685,0.421,0,21036.45,0.467,6,Self-employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1137,50,51408.65,514,0.43,1,5000.0,0.282,12,Employed,Standard,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1138,65,167311.86,507,0.72,1,21257.59,0.362,14,Unemployed,Standard,Los Angeles,Late,On-time,On-time,Missed,On-time,On-time,1
+CUST_1139,72,116453.68,598,0.631,2,54044.81,0.38,10,retired,Business,Chicago,On-time,Missed,On-time,On-time,Late,On-time,0
+CUST_1140,40,82954.36,683,0.753,3,46919.32,0.29,13,Employed,Standard,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1141,41,132943.21,489,0.339,3,44648.58,0.378,10,Employed,Platinum,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,1
+CUST_1142,54,277822.38,586,0.771,3,106411.17,0.241,1,Employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1143,52,108528.19,619,0.578,1,51701.33,0.258,1,Employed,Business,Phoenix,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1144,61,111817.65,642,0.382,3,79633.86,0.169,11,Unemployed,Gold,Los Angeles,Missed,Late,On-time,Late,On-time,Late,0
+CUST_1145,57,81325.35,596,0.259,2,54311.14,0.324,14,Unemployed,Standard,New York,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1146,39,68220.17,547,0.784,0,20426.17,0.333,16,Employed,Standard,Phoenix,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1147,44,145303.01,506,0.352,1,37965.19,0.418,13,Employed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1148,52,68028.89,588,0.431,2,28125.21,0.379,15,Employed,Business,Phoenix,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1149,18,103272.9,484,0.419,3,53624.74,0.272,7,Self-employed,Platinum,New York,Missed,On-time,On-time,Late,On-time,On-time,1
+CUST_1150,52,80658.51,317,0.568,3,30464.2,0.182,16,Unemployed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1151,54,124053.27,619,0.305,1,45431.22,0.343,4,Self-employed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1152,64,116200.61,661,0.752,4,34734.62,0.411,11,Employed,Platinum,Chicago,Late,On-time,On-time,Late,Late,Missed,1
+CUST_1153,31,159503.07,367,0.458,3,103679.03,0.376,5,Self-employed,Student,Chicago,On-time,On-time,On-time,On-time,Missed,Late,0
+CUST_1154,20,79492.51,489,0.831,2,56532.25,0.408,17,Employed,Platinum,Los Angeles,Late,On-time,Late,On-time,Missed,On-time,1
+CUST_1155,18,88564.09,636,0.412,4,24836.0,0.279,4,Employed,Gold,Los Angeles,Missed,On-time,Late,On-time,Late,On-time,0
+CUST_1156,22,64375.07,765,0.68,2,43074.22,0.253,5,Employed,Standard,Houston,Late,On-time,Late,Missed,On-time,Late,1
+CUST_1157,43,81878.65,582,0.226,3,15500.75,0.226,8,Employed,Platinum,New York,On-time,Late,Late,Late,On-time,Late,0
+CUST_1158,72,118505.03,514,0.771,5,15234.77,0.294,14,Self-employed,Gold,Chicago,Late,On-time,Missed,Late,On-time,Late,0
+CUST_1159,31,140585.39,564,0.87,3,54047.08,0.292,9,Unemployed,Standard,Los Angeles,Missed,On-time,On-time,On-time,On-time,Missed,0
+CUST_1160,56,66035.72,704,0.05,3,32430.02,0.321,16,Employed,Student,New York,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1161,44,147893.56,522,0.486,2,31921.0,0.287,18,retired,Platinum,Phoenix,Late,Late,On-time,Late,On-time,On-time,1
+CUST_1162,26,184049.96,508,0.459,1,89430.74,0.287,11,Employed,Business,New York,On-time,On-time,Late,On-time,Late,Missed,0
+CUST_1163,32,120447.73,537,0.119,4,35039.66,0.222,8,Self-employed,Standard,Chicago,On-time,Missed,Missed,On-time,Missed,Missed,1
+CUST_1164,32,232694.93,494,0.438,1,110664.31,0.394,14,Unemployed,Platinum,Houston,On-time,On-time,On-time,Missed,Late,On-time,1
+CUST_1165,43,70595.4,591,0.356,4,13615.46,0.308,13,Employed,Standard,Chicago,Missed,On-time,Late,Late,On-time,On-time,0
+CUST_1166,59,57115.5,726,0.36,1,5000.0,0.283,0,Unemployed,Business,Los Angeles,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1167,30,44913.84,609,0.718,4,31300.04,0.225,16,Employed,Standard,Los Angeles,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1168,68,196054.0,557,0.357,2,81927.84,0.167,0,Employed,Platinum,New York,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1169,49,134240.74,554,0.838,1,101864.78,0.431,12,Self-employed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1170,56,97529.71,439,0.338,2,78781.77,0.355,7,Unemployed,Gold,Los Angeles,Late,On-time,On-time,Missed,On-time,On-time,0
+CUST_1171,66,113426.62,659,0.579,4,44144.39,0.138,12,Unemployed,Business,Phoenix,On-time,On-time,On-time,On-time,Missed,On-time,1
+CUST_1172,69,60261.9,573,0.187,0,31652.57,0.376,15,Self-employed,Student,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1173,49,300000.0,564,0.429,4,150000.0,0.392,1,Employed,Standard,Houston,Late,On-time,On-time,Late,Late,Late,1
+CUST_1174,21,105987.35,850,0.308,0,76472.57,0.312,12,Employed,Standard,New York,On-time,On-time,Late,Late,On-time,Late,0
+CUST_1175,47,105045.95,607,0.533,1,63604.73,0.46,17,retired,Standard,Los Angeles,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1176,54,138623.99,512,0.652,3,78361.38,0.322,2,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1177,40,124166.62,542,0.418,1,64606.49,0.158,12,Self-employed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1178,56,110599.77,683,0.136,4,19193.99,0.337,18,Employed,Business,Houston,Missed,On-time,On-time,Late,Late,Late,0
+CUST_1179,62,70067.33,590,0.416,2,29797.56,0.324,12,Self-employed,Standard,Houston,On-time,On-time,Missed,On-time,Late,Missed,0
+CUST_1180,32,123634.66,451,0.565,3,78276.79,0.24,18,Employed,Gold,Los Angeles,Late,On-time,Late,Late,On-time,On-time,0
+CUST_1181,60,233243.09,663,0.258,4,124691.7,0.357,3,retired,Gold,Los Angeles,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1182,46,183205.63,520,0.575,5,34463.16,0.133,18,Self-employed,Standard,Los Angeles,On-time,On-time,Late,Missed,Late,On-time,0
+CUST_1183,53,204814.39,749,0.197,6,59790.25,0.399,17,retired,Gold,New York,On-time,Missed,Late,Late,Missed,On-time,0
+CUST_1184,30,79449.62,677,0.328,4,5000.0,0.212,5,Employed,Standard,Houston,Late,On-time,On-time,On-time,Missed,Late,0
+CUST_1185,49,64061.79,540,0.522,3,12119.43,0.202,18,Self-employed,Gold,Houston,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1186,24,94496.81,695,0.422,3,53914.01,0.289,3,Self-employed,Platinum,New York,Missed,Late,On-time,On-time,On-time,On-time,0
+CUST_1187,68,102539.33,586,0.639,2,14143.12,0.343,3,Self-employed,Platinum,Phoenix,Missed,On-time,Missed,On-time,On-time,Late,0
+CUST_1188,39,163621.59,657,0.077,2,48710.87,0.316,6,retired,Standard,Chicago,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1189,45,46691.45,624,0.491,2,34087.6,0.226,6,Employed,Student,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1190,19,199032.44,504,0.436,4,92480.13,0.249,15,Employed,Platinum,New York,On-time,Late,On-time,Late,Late,Late,0
+CUST_1191,59,93136.54,522,0.621,2,36675.35,0.187,15,Employed,Student,Houston,Late,Late,On-time,Late,Missed,Late,1
+CUST_1192,62,82522.72,673,0.592,3,18792.29,0.278,4,Employed,Gold,Houston,On-time,Missed,On-time,On-time,On-time,On-time,1
+CUST_1193,74,63416.45,550,0.501,2,15964.11,0.408,14,retired,Student,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1194,70,47488.36,544,0.647,2,5000.0,0.3,3,Employed,Student,Los Angeles,On-time,On-time,Missed,On-time,Missed,Late,0
+CUST_1195,23,144835.26,494,0.05,4,59319.28,0.386,12,Employed,Gold,Houston,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1196,45,103354.34,618,0.257,1,34024.97,0.446,18,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1197,45,55962.83,766,0.323,1,37006.54,0.241,6,Employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1198,61,55834.1,484,0.647,6,25900.28,0.281,11,Employed,Platinum,Los Angeles,Late,On-time,Missed,On-time,Late,Missed,1
+CUST_1199,61,85975.9,582,0.557,4,19761.38,0.517,8,Employed,Business,Phoenix,Missed,Late,On-time,Missed,Late,Late,1
+CUST_1200,37,211924.46,707,0.175,0,91344.4,0.444,16,Employed,Student,Houston,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1201,47,88974.88,573,0.447,2,34344.42,0.133,1,Employed,Platinum,Houston,On-time,Late,Late,Late,On-time,Late,0
+CUST_1202,28,50843.68,621,0.566,4,17529.29,0.339,15,retired,Standard,New York,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1203,72,89531.08,484,0.348,0,14987.46,0.3,6,Employed,Standard,Phoenix,On-time,On-time,Late,Late,On-time,On-time,0
+CUST_1204,45,88450.63,619,0.182,3,27464.4,0.383,17,Employed,Business,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1205,42,29712.6,563,0.38,2,20263.64,0.226,6,retired,Standard,Chicago,On-time,On-time,On-time,Late,Late,On-time,0
+CUST_1206,56,97586.34,669,0.846,0,57692.69,0.216,0,Unemployed,Standard,Chicago,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1207,50,90129.69,687,0.893,1,8467.42,0.232,2,retired,Platinum,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1208,18,136792.21,813,0.462,2,48202.12,0.243,10,retired,Platinum,Chicago,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1209,74,229797.95,632,0.443,1,73417.35,0.382,14,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1210,44,166022.69,609,0.566,1,103267.65,0.182,2,Self-employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1211,74,88603.4,597,0.518,4,55608.47,0.238,12,Employed,Gold,Los Angeles,On-time,Late,Missed,Late,On-time,Late,0
+CUST_1212,69,60778.34,548,0.263,3,20703.85,0.121,3,Employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,Missed,0
+CUST_1213,30,300000.0,610,0.216,2,82606.32,0.401,7,Unemployed,Student,Los Angeles,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1214,58,102700.65,553,0.72,3,27202.89,0.427,3,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,Late,Late,1
+CUST_1215,20,100628.79,595,0.2,3,19934.06,0.267,17,Self-employed,Student,Phoenix,On-time,Late,On-time,Late,On-time,On-time,1
+CUST_1216,56,98920.24,699,0.824,2,29167.15,0.27,6,Self-employed,Student,Chicago,On-time,On-time,Late,Late,Late,On-time,1
+CUST_1217,23,109323.17,489,0.129,6,28846.95,0.345,10,Employed,Platinum,New York,On-time,On-time,Missed,On-time,Late,Late,1
+CUST_1218,25,93710.29,683,0.835,4,46014.99,0.447,3,Unemployed,Standard,Los Angeles,Missed,Late,On-time,Late,Late,On-time,1
+CUST_1219,44,77248.1,699,0.388,1,44735.11,0.341,12,Employed,Gold,Houston,On-time,On-time,On-time,Late,Late,Late,0
+CUST_1220,26,78185.46,569,0.112,2,46283.84,0.23,8,Employed,Gold,Chicago,Late,Late,On-time,Late,On-time,On-time,1
+CUST_1221,54,98536.91,389,0.696,3,22103.58,0.138,8,Unemployed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1222,50,78306.38,525,0.547,3,45077.83,0.188,18,Employed,Student,Chicago,On-time,On-time,Late,Late,On-time,On-time,0
+CUST_1223,68,72558.24,697,0.535,5,46540.41,0.307,2,Unemployed,Gold,Chicago,On-time,Missed,On-time,Late,Late,Late,0
+CUST_1224,59,104905.9,578,0.465,2,31074.8,0.234,11,Employed,Student,New York,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1225,61,89159.82,490,0.451,2,41010.73,0.319,10,Employed,Standard,Houston,On-time,Late,On-time,On-time,On-time,Late,0
+CUST_1226,41,196756.52,535,0.338,5,63166.45,0.245,19,Unemployed,Standard,Los Angeles,Missed,Late,Late,Late,Missed,On-time,1
+CUST_1227,32,30332.93,656,0.436,2,5000.0,0.194,10,Self-employed,Business,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1228,71,163424.04,629,0.523,2,61012.59,0.182,16,Employed,Gold,Chicago,On-time,Late,Late,On-time,Late,Late,1
+CUST_1229,49,175196.56,558,0.182,1,22535.54,0.456,13,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1230,49,39336.18,547,0.649,3,38064.39,0.389,15,Unemployed,Gold,Chicago,On-time,Late,On-time,Late,On-time,On-time,1
+CUST_1231,41,85709.25,545,0.338,4,10611.15,0.473,9,Employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1232,58,84607.41,497,0.101,6,28601.33,0.354,3,Unemployed,Platinum,Chicago,Missed,Late,Late,On-time,Late,On-time,1
+CUST_1233,69,53079.45,725,0.436,2,26843.93,0.257,9,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1234,66,70467.58,551,0.518,5,47026.25,0.432,19,Self-employed,Gold,Phoenix,Missed,On-time,On-time,Late,On-time,Late,1
+CUST_1235,66,60667.68,690,0.322,4,25824.95,0.297,11,retired,Gold,Houston,Late,On-time,On-time,Missed,Late,On-time,0
+CUST_1236,69,220014.16,717,0.28,6,86257.49,0.322,8,Employed,Business,New York,Late,Missed,On-time,Missed,On-time,On-time,1
+CUST_1237,29,152356.85,670,0.2,3,52414.32,0.296,14,Self-employed,Gold,Los Angeles,On-time,Late,Late,On-time,On-time,Late,0
+CUST_1238,56,177216.12,541,0.411,2,70655.92,0.1,8,Unemployed,Standard,New York,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1239,19,138368.8,616,0.239,4,49136.86,0.46,6,Unemployed,Gold,New York,On-time,Late,Missed,On-time,Missed,Late,1
+CUST_1240,20,60165.37,578,0.322,4,27051.9,0.349,11,Employed,Standard,Phoenix,On-time,Missed,Late,Missed,On-time,Late,1
+CUST_1241,66,78975.37,499,0.292,6,5472.85,0.333,19,Self-employed,Standard,Houston,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1242,54,124634.91,609,0.205,2,5000.0,0.294,13,Unemployed,Standard,New York,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1243,66,57697.43,474,0.761,3,19333.74,0.316,15,Unemployed,Gold,New York,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1244,73,137829.78,687,0.401,2,33929.88,0.24,18,Unemployed,Standard,Chicago,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1245,34,89749.62,538,0.814,1,43220.04,0.362,2,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1246,66,84478.82,598,0.366,4,39476.49,0.169,10,retired,Business,Houston,Late,Missed,On-time,On-time,On-time,Late,0
+CUST_1247,19,137703.41,605,0.651,5,54644.97,0.319,19,Employed,Platinum,Los Angeles,On-time,Missed,On-time,Late,On-time,Missed,1
+CUST_1248,19,122130.32,557,0.718,5,57587.85,0.356,18,Employed,Standard,Phoenix,Late,On-time,Late,Late,Missed,On-time,0
+CUST_1249,45,85007.15,633,0.786,5,33417.5,0.28,7,Employed,Standard,New York,On-time,On-time,Missed,On-time,On-time,On-time,1
+CUST_1250,71,168488.69,537,0.548,3,93616.51,0.337,19,Employed,Platinum,New York,Late,On-time,On-time,Late,On-time,On-time,1
+CUST_1251,40,61478.76,658,0.399,5,33178.79,0.201,7,Employed,Student,Los Angeles,On-time,Late,On-time,Late,On-time,Late,1
+CUST_1252,54,131939.2,459,0.539,3,18068.42,0.203,2,Employed,Standard,Phoenix,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1253,49,130590.41,591,0.53,0,33899.98,0.324,9,Employed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1254,50,86997.06,755,0.327,2,23519.66,0.368,12,Self-employed,Gold,Chicago,Late,On-time,On-time,On-time,On-time,Late,1
+CUST_1255,18,115807.58,490,0.465,2,29711.72,0.113,8,Employed,Gold,New York,On-time,On-time,Missed,Late,On-time,Missed,0
+CUST_1256,36,56949.74,519,0.318,3,42217.55,0.352,5,Employed,Business,New York,On-time,Late,Late,Late,On-time,On-time,0
+CUST_1257,19,151560.11,626,0.773,3,83348.47,0.246,14,Employed,Platinum,Houston,On-time,On-time,On-time,Late,Late,On-time,1
+CUST_1258,70,92016.16,596,0.126,4,20609.22,0.281,15,Employed,Student,Los Angeles,On-time,On-time,Missed,Late,Late,On-time,1
+CUST_1259,61,79039.27,612,0.511,4,25211.7,0.166,4,Employed,Gold,New York,Late,Late,Missed,On-time,On-time,Late,0
+CUST_1260,43,160328.42,624,0.28,3,20514.34,0.215,12,Self-employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1261,49,72836.38,637,0.536,2,38455.8,0.397,18,retired,Platinum,Los Angeles,Missed,Missed,On-time,On-time,On-time,On-time,0
+CUST_1262,23,53056.78,680,0.407,2,5000.0,0.303,1,Unemployed,Standard,Houston,On-time,On-time,Late,Missed,On-time,On-time,1
+CUST_1263,49,49634.54,617,0.408,3,21573.16,0.262,5,Unemployed,Gold,Chicago,On-time,Late,Missed,On-time,On-time,On-time,0
+CUST_1264,72,131351.2,558,0.397,1,73240.0,0.288,0,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1265,21,56203.38,641,0.413,3,30368.62,0.349,14,Employed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1266,72,220264.16,751,0.585,4,61231.02,0.344,14,Employed,Gold,Chicago,On-time,On-time,Late,Missed,On-time,On-time,0
+CUST_1267,28,39185.31,568,0.528,3,18039.48,0.292,13,Unemployed,Platinum,Phoenix,On-time,On-time,On-time,Late,Late,On-time,1
+CUST_1268,73,214557.02,492,0.719,2,79138.51,0.409,6,Employed,Business,Chicago,Late,On-time,Missed,Missed,On-time,On-time,1
+CUST_1269,34,109961.25,680,0.34,1,49810.66,0.397,4,Self-employed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1270,55,95741.25,569,0.526,2,79562.18,0.341,19,Employed,Platinum,Phoenix,Late,On-time,Missed,On-time,On-time,On-time,1
+CUST_1271,41,78253.74,384,0.626,0,42492.65,0.305,15,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1272,22,119675.2,656,0.39,3,55415.42,0.366,16,retired,Business,New York,Missed,On-time,Missed,On-time,On-time,On-time,0
+CUST_1273,69,98320.7,532,0.83,2,32802.48,0.331,10,Unemployed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1274,51,164293.76,572,0.525,1,31031.99,0.406,14,Unemployed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1275,23,105274.65,610,0.731,3,44274.5,0.39,19,Self-employed,Student,Houston,On-time,On-time,Missed,On-time,On-time,Late,0
+CUST_1276,39,106997.55,597,0.435,5,34082.49,0.198,15,Unemployed,Standard,New York,Missed,Missed,Late,Missed,On-time,Late,1
+CUST_1277,28,84905.99,644,0.906,3,5000.0,0.191,2,Self-employed,Gold,Phoenix,Late,Missed,Late,On-time,On-time,On-time,0
+CUST_1278,65,97470.0,541,0.756,3,47182.36,0.23,5,retired,Business,Chicago,On-time,Late,On-time,Missed,Late,Late,0
+CUST_1279,33,114856.21,626,0.13,1,20489.23,0.398,12,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1280,50,46320.95,557,0.722,4,11400.23,0.142,0,Self-employed,Platinum,Houston,Late,On-time,Missed,On-time,Late,Late,1
+CUST_1281,26,54515.59,646,0.32,5,5000.0,0.339,13,Self-employed,Business,Houston,On-time,On-time,On-time,Late,Late,Missed,1
+CUST_1282,23,139719.81,635,0.453,3,13951.21,0.336,1,Employed,Standard,Houston,On-time,Late,Late,On-time,Late,On-time,0
+CUST_1283,33,107992.27,496,0.194,3,13913.42,0.416,1,Unemployed,Student,Los Angeles,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1284,46,92054.21,678,0.067,1,8364.16,0.318,14,retired,Business,Phoenix,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1285,20,100832.98,532,0.746,3,22443.78,0.166,17,Employed,Platinum,Los Angeles,On-time,Late,On-time,Late,On-time,On-time,1
+CUST_1286,37,116930.76,653,0.282,2,18539.66,0.204,8,Employed,Standard,Chicago,Late,On-time,On-time,Late,On-time,On-time,1
+CUST_1287,53,78435.63,613,0.657,1,32133.65,0.182,2,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1288,36,70452.1,745,0.383,3,31526.77,0.246,3,Unemployed,Standard,Houston,On-time,On-time,Missed,Late,On-time,On-time,0
+CUST_1289,43,109213.05,560,0.772,2,10379.48,0.282,14,Self-employed,Student,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1290,20,64386.4,549,0.43,1,25434.56,0.183,4,Employed,Student,New York,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1291,36,120167.18,578,0.456,2,77103.15,0.447,19,Employed,Platinum,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1292,37,46479.32,553,0.316,1,16580.35,0.167,19,Employed,Gold,Los Angeles,On-time,Late,On-time,Missed,On-time,On-time,0
+CUST_1293,49,158902.41,652,0.28,4,39107.78,0.435,4,Unemployed,Standard,Phoenix,On-time,Late,On-time,Late,Late,On-time,1
+CUST_1294,24,123697.5,435,0.712,1,55552.26,0.419,9,Employed,Student,Houston,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1295,69,112211.28,485,0.488,3,68118.48,0.39,15,Employed,Platinum,Chicago,Missed,On-time,On-time,On-time,On-time,On-time,0
+CUST_1296,58,155614.4,484,0.148,3,68300.78,0.231,11,Unemployed,Business,New York,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1297,50,211586.46,666,0.797,1,100751.75,0.334,13,Employed,Platinum,Phoenix,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1298,57,157848.66,734,0.664,2,75080.48,0.172,10,Employed,Student,Chicago,Late,On-time,On-time,On-time,Missed,On-time,1
+CUST_1299,56,43675.04,571,0.322,3,21620.19,0.391,18,Employed,Platinum,Houston,On-time,Late,Missed,On-time,On-time,Late,1
+CUST_1300,35,56224.95,565,0.195,2,25051.13,0.293,5,Employed,Platinum,Houston,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1301,57,75490.12,586,0.304,4,19002.23,0.259,9,Employed,Gold,Houston,On-time,On-time,Missed,On-time,On-time,On-time,1
+CUST_1302,18,101181.02,685,0.51,2,43064.6,0.178,19,retired,Business,Houston,On-time,Missed,On-time,On-time,On-time,Late,0
+CUST_1303,28,126231.4,497,0.746,2,56494.47,0.1,2,Unemployed,Platinum,New York,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1304,45,72138.33,601,0.438,2,11795.4,0.196,14,Unemployed,Gold,New York,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1305,74,108767.79,668,0.951,1,80820.77,0.411,10,retired,Standard,Phoenix,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1306,42,71182.56,625,0.395,2,6215.37,0.26,1,Employed,Standard,Houston,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1307,67,75943.31,597,0.482,5,23020.91,0.283,5,Employed,Gold,New York,Late,Missed,On-time,Late,Late,Missed,0
+CUST_1308,40,53099.78,670,0.24,2,36142.72,0.366,16,Employed,Standard,Chicago,On-time,Late,On-time,Late,Missed,Missed,1
+CUST_1309,48,66003.99,337,0.471,1,29448.29,0.481,17,Unemployed,Standard,New York,On-time,On-time,On-time,On-time,Missed,On-time,1
+CUST_1310,47,54429.82,641,0.703,4,6208.51,0.433,3,Self-employed,Gold,New York,On-time,On-time,Late,Missed,On-time,Missed,0
+CUST_1311,59,64458.86,521,0.858,3,12254.03,0.203,8,Employed,Standard,Phoenix,Late,On-time,Late,Missed,On-time,Late,1
+CUST_1312,52,160663.0,415,0.69,2,58667.83,0.106,9,Employed,Student,New York,Late,On-time,Late,On-time,On-time,Missed,0
+CUST_1313,24,65231.38,626,0.129,2,14541.54,0.536,1,Employed,Gold,Chicago,Late,On-time,On-time,Late,Missed,Late,1
+CUST_1314,33,300000.0,704,0.265,3,74776.24,0.527,10,Employed,Gold,Houston,On-time,On-time,Missed,On-time,Missed,Late,0
+CUST_1315,43,124856.27,568,0.144,3,47054.02,0.319,10,Unemployed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1316,65,108673.33,666,0.283,1,85459.95,0.173,10,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1317,74,67959.31,725,0.294,3,45163.92,0.396,0,retired,Gold,Chicago,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1318,69,137045.04,698,0.383,4,18111.14,0.289,13,Employed,Student,Phoenix,On-time,Missed,Late,Missed,Late,On-time,0
+CUST_1319,66,77179.44,728,0.598,4,34460.58,0.289,0,Self-employed,Student,Houston,Missed,On-time,Missed,On-time,Late,Missed,0
+CUST_1320,19,105643.96,647,0.214,2,36279.02,0.389,8,retired,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1321,18,300000.0,587,0.642,2,58628.43,0.333,0,retired,Platinum,New York,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1322,65,95769.4,436,0.653,1,25809.56,0.181,3,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1323,29,167727.93,558,0.41,6,109692.77,0.268,0,Employed,Business,Houston,Late,On-time,On-time,Missed,Missed,On-time,1
+CUST_1324,22,72874.65,504,0.772,4,38602.38,0.366,18,Employed,Business,Los Angeles,Late,Missed,On-time,Late,On-time,Late,0
+CUST_1325,54,98437.85,775,0.715,3,22304.88,0.351,9,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1326,49,221856.43,564,0.301,2,50433.26,0.326,14,Self-employed,Platinum,New York,Late,On-time,On-time,On-time,Late,Missed,1
+CUST_1327,72,75417.17,591,0.638,2,25878.56,0.393,19,retired,Student,Houston,Late,On-time,On-time,On-time,Missed,On-time,1
+CUST_1328,26,226053.58,630,0.426,2,107267.85,0.264,3,Employed,Platinum,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1329,58,137504.76,584,0.67,5,70977.64,0.318,19,Employed,Platinum,Chicago,Late,On-time,Late,Late,On-time,On-time,0
+CUST_1330,52,77638.24,733,0.646,1,6053.95,0.1,13,Employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1331,36,132920.83,524,0.618,3,72463.54,0.255,4,Unemployed,Gold,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1332,65,154906.19,598,0.204,1,54579.41,0.376,14,retired,Platinum,Phoenix,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1333,33,132288.44,513,0.355,1,87025.53,0.261,14,Employed,Student,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1334,20,49331.81,461,0.348,6,17306.09,0.253,15,Employed,Platinum,Los Angeles,Missed,Late,On-time,Missed,On-time,On-time,1
+CUST_1335,37,72093.11,525,0.159,6,55684.02,0.196,15,Unemployed,Platinum,Chicago,Late,Late,Late,Missed,Late,On-time,1
+CUST_1336,41,89459.57,577,0.221,1,35980.68,0.4,3,Self-employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1337,71,96705.97,541,0.287,4,43222.62,0.355,8,Employed,Gold,Phoenix,Late,Missed,On-time,Missed,On-time,On-time,0
+CUST_1338,73,132220.72,518,0.4,0,41372.9,0.383,0,Unemployed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1339,50,108324.96,453,0.642,3,55816.56,0.127,4,retired,Gold,New York,On-time,On-time,On-time,Late,On-time,Late,0
+CUST_1340,41,54831.52,573,0.339,2,25522.7,0.284,8,Self-employed,Gold,Los Angeles,Late,Late,On-time,On-time,On-time,Late,0
+CUST_1341,69,118659.64,445,0.456,3,24914.72,0.272,19,Self-employed,Business,Los Angeles,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1342,28,131621.95,648,0.354,3,33290.19,0.272,4,Employed,Platinum,Phoenix,Late,Late,Late,Missed,On-time,Late,0
+CUST_1343,66,128647.47,587,0.458,3,48325.03,0.238,3,Self-employed,Student,New York,On-time,Missed,Missed,On-time,On-time,On-time,1
+CUST_1344,25,162637.13,449,0.448,6,86202.77,0.265,15,Employed,Standard,Houston,On-time,On-time,Missed,On-time,Late,On-time,0
+CUST_1345,53,145537.7,552,0.743,2,83640.38,0.385,1,Employed,Student,Los Angeles,On-time,Late,Late,On-time,Late,On-time,0
+CUST_1346,55,122952.88,512,0.394,1,77697.58,0.109,15,Employed,Platinum,Houston,On-time,On-time,On-time,Late,On-time,Late,0
+CUST_1347,57,96891.87,609,0.721,3,50669.57,0.478,17,Employed,Platinum,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1348,37,47358.09,701,0.482,5,22387.84,0.348,1,Employed,Standard,Chicago,Missed,Missed,Missed,Missed,Late,Late,0
+CUST_1349,52,121328.09,411,0.46,0,56981.5,0.296,15,Employed,Gold,Chicago,Late,Late,Late,On-time,On-time,On-time,0
+CUST_1350,65,109796.61,590,0.855,5,62119.42,0.391,0,Self-employed,Platinum,Los Angeles,Missed,Late,On-time,On-time,Missed,Late,1
+CUST_1351,42,112999.19,566,0.789,2,24363.99,0.155,15,Self-employed,Gold,Houston,Late,On-time,On-time,On-time,On-time,On-time,1
+CUST_1352,52,56296.55,640,0.133,1,18195.8,0.234,2,Employed,Business,Chicago,Late,On-time,Missed,On-time,Late,On-time,0
+CUST_1353,42,61478.94,599,0.529,4,10151.36,0.288,14,Employed,Student,New York,Missed,Late,Missed,On-time,On-time,On-time,0
+CUST_1354,46,160627.65,512,0.246,4,71766.57,0.437,10,Unemployed,Business,New York,On-time,On-time,Late,On-time,Missed,On-time,1
+CUST_1355,35,98235.77,551,0.545,5,70256.15,0.295,9,Employed,Platinum,New York,Late,Missed,Missed,On-time,On-time,On-time,0
+CUST_1356,63,135889.97,508,0.363,2,81112.87,0.345,16,retired,Business,New York,On-time,On-time,Late,On-time,Late,Late,0
+CUST_1357,35,101282.48,677,0.531,2,49848.57,0.241,3,Employed,Student,Houston,On-time,On-time,On-time,Late,On-time,Late,0
+CUST_1358,19,101348.03,582,0.896,4,18496.58,0.349,16,Self-employed,Standard,New York,Missed,On-time,On-time,On-time,On-time,Late,1
+CUST_1359,71,152535.58,751,0.633,4,84863.29,0.468,3,Employed,Gold,Houston,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1360,52,79277.16,575,0.37,3,41050.37,0.4,18,Self-employed,Standard,Los Angeles,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1361,33,104420.35,516,0.404,1,36094.82,0.292,0,Unemployed,Standard,Los Angeles,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1362,58,81218.76,444,0.723,0,58411.51,0.368,13,retired,Standard,New York,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1363,53,82240.42,418,0.645,1,23054.86,0.358,10,retired,Standard,New York,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1364,50,87011.71,437,0.779,2,32608.32,0.351,6,Employed,Platinum,New York,On-time,On-time,Late,On-time,Missed,Late,1
+CUST_1365,21,110512.69,604,0.588,4,55593.39,0.411,16,Self-employed,Gold,Los Angeles,On-time,Late,On-time,On-time,On-time,Missed,1
+CUST_1366,50,80618.92,626,0.546,3,51598.6,0.41,3,Employed,Standard,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1367,31,175960.66,438,0.725,4,48564.15,0.287,9,Self-employed,Student,Los Angeles,On-time,Late,Late,Late,Missed,On-time,1
+CUST_1368,38,66859.73,661,0.901,3,25914.91,0.364,16,Employed,Student,New York,On-time,Late,On-time,On-time,Missed,On-time,0
+CUST_1369,65,91934.65,537,0.511,3,43455.82,0.262,3,Unemployed,Business,Chicago,On-time,On-time,Late,Late,On-time,On-time,0
+CUST_1370,37,82046.91,593,0.37,3,40105.81,0.208,18,retired,Platinum,Chicago,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1371,73,191772.59,725,0.373,0,102742.95,0.273,17,Employed,Gold,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1372,25,109247.92,661,0.599,5,37185.15,0.292,16,Employed,Standard,Houston,Missed,Missed,On-time,On-time,On-time,Missed,0
+CUST_1373,24,159094.8,556,0.426,0,100604.7,0.134,5,Employed,Standard,New York,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1374,20,51247.56,500,0.471,4,20813.67,0.386,6,Self-employed,Standard,Houston,Missed,Late,On-time,Late,Late,On-time,0
+CUST_1375,34,112769.15,386,0.781,1,71783.53,0.1,5,Employed,Gold,Phoenix,On-time,On-time,Missed,Missed,On-time,Missed,1
+CUST_1376,50,149232.28,515,0.338,5,85782.34,0.55,11,retired,Business,Houston,Missed,On-time,Late,Late,On-time,Missed,1
+CUST_1377,65,103772.19,561,0.479,2,57387.16,0.45,8,Self-employed,Standard,New York,On-time,On-time,Missed,Late,On-time,On-time,0
+CUST_1378,29,161521.19,491,0.76,3,29414.4,0.274,17,Self-employed,Standard,Phoenix,On-time,Missed,Missed,On-time,Late,On-time,0
+CUST_1379,68,79232.8,568,0.584,6,6912.24,0.301,1,Self-employed,Standard,Houston,Late,Late,Missed,Missed,Missed,Missed,1
+CUST_1380,39,188552.51,587,0.55,2,39801.97,0.33,16,Employed,Platinum,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1381,72,281371.07,560,0.662,2,118685.7,0.241,0,retired,Gold,Chicago,Missed,On-time,Late,On-time,Late,On-time,1
+CUST_1382,39,84935.56,521,0.499,3,30542.97,0.319,8,Self-employed,Gold,Phoenix,On-time,Missed,On-time,On-time,On-time,On-time,1
+CUST_1383,63,81834.1,595,0.42,1,41616.46,0.286,5,retired,Standard,Los Angeles,Missed,On-time,On-time,On-time,On-time,Late,0
+CUST_1384,47,192326.26,620,0.129,4,52223.54,0.291,1,Employed,Gold,New York,Late,On-time,Missed,Late,On-time,Late,0
+CUST_1385,55,203563.43,482,0.667,2,65780.65,0.318,5,Self-employed,Standard,Chicago,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1386,55,79034.4,707,0.189,4,48145.72,0.169,8,Employed,Gold,Phoenix,Late,Late,Missed,On-time,On-time,Missed,1
+CUST_1387,62,82771.69,571,0.65,1,44735.5,0.304,2,Self-employed,Standard,Chicago,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1388,68,88090.71,582,0.125,5,39416.67,0.316,15,Unemployed,Student,Phoenix,On-time,Late,Late,On-time,On-time,Missed,1
+CUST_1389,71,54607.29,644,0.353,3,38518.76,0.313,14,Unemployed,Gold,Phoenix,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1390,25,66140.21,601,0.606,6,40888.2,0.278,11,Unemployed,Platinum,Houston,Missed,Missed,Missed,Late,Missed,Late,1
+CUST_1391,44,63644.11,666,0.467,5,23288.47,0.414,7,Employed,Gold,Chicago,Late,On-time,Late,On-time,Late,On-time,0
+CUST_1392,44,70786.0,606,0.411,4,36139.36,0.265,5,retired,Gold,Chicago,Late,On-time,Late,On-time,On-time,On-time,0
+CUST_1393,51,98451.3,525,0.89,3,44074.88,0.323,2,retired,Standard,Los Angeles,On-time,On-time,On-time,Late,On-time,Missed,1
+CUST_1394,38,111115.12,613,0.724,4,44924.59,0.43,3,Employed,Gold,New York,Late,Late,On-time,Missed,Missed,Missed,1
+CUST_1395,47,200917.71,477,0.141,3,41989.54,0.292,9,retired,Gold,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1396,50,63810.06,590,0.808,2,5000.0,0.321,13,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1397,45,155728.68,577,0.632,1,85598.62,0.29,14,Self-employed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1398,64,90819.61,561,0.366,6,26658.52,0.424,6,Employed,Student,Houston,Late,Late,On-time,Late,Missed,Late,1
+CUST_1399,50,97798.72,568,0.657,4,26654.7,0.274,6,retired,Student,Houston,Late,Late,On-time,Late,On-time,On-time,0
+CUST_1400,22,135482.02,411,0.448,3,34919.41,0.428,7,Employed,Standard,Los Angeles,On-time,Missed,Late,On-time,On-time,On-time,1
+CUST_1401,65,60336.99,531,0.701,1,35900.15,0.29,9,Employed,Platinum,Phoenix,Missed,On-time,On-time,On-time,On-time,On-time,0
+CUST_1402,36,118777.81,588,0.264,1,46731.28,0.214,18,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1403,21,107778.01,594,0.354,2,44839.86,0.368,18,Employed,Platinum,Houston,On-time,Late,On-time,Missed,On-time,On-time,0
+CUST_1404,52,124807.59,488,0.238,2,22684.15,0.27,1,Self-employed,Gold,New York,On-time,Late,On-time,Late,Missed,On-time,0
+CUST_1405,66,113897.18,694,0.36,4,10625.66,0.362,14,Employed,Standard,Phoenix,On-time,On-time,Late,Late,On-time,Missed,0
+CUST_1406,34,300000.0,502,0.332,3,126740.63,0.1,0,Self-employed,Student,Phoenix,Missed,Late,On-time,On-time,Late,On-time,0
+CUST_1407,61,75052.45,667,0.582,3,21280.55,0.301,9,retired,Platinum,Los Angeles,Late,On-time,On-time,On-time,Late,On-time,1
+CUST_1408,45,78745.53,618,0.304,6,19101.71,0.254,5,Unemployed,Gold,Chicago,Late,On-time,On-time,Missed,On-time,On-time,0
+CUST_1409,47,75547.15,522,0.469,2,13535.22,0.194,12,Unemployed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,Late,1
+CUST_1410,46,77882.83,740,0.701,5,46966.07,0.245,9,Employed,Gold,New York,Missed,Missed,On-time,Late,Missed,Missed,1
+CUST_1411,63,75064.37,473,0.622,1,46174.42,0.243,11,Employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1412,70,170754.63,663,0.465,4,41907.53,0.295,5,Employed,Gold,Phoenix,Missed,On-time,Missed,On-time,On-time,On-time,0
+CUST_1413,23,189501.53,670,0.064,1,33024.29,0.163,5,Employed,Business,Houston,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1414,52,77349.52,520,0.487,4,56942.07,0.332,0,retired,Standard,Chicago,Late,Late,Late,Missed,Late,Late,1
+CUST_1415,58,68759.17,705,0.449,4,37739.68,0.437,11,Employed,Gold,Phoenix,Late,Missed,Missed,On-time,On-time,On-time,0
+CUST_1416,54,123631.72,557,0.245,4,40084.17,0.328,9,retired,Student,Houston,On-time,On-time,On-time,Late,Late,Missed,0
+CUST_1417,41,77996.96,606,0.523,1,37818.81,0.381,13,Employed,Gold,New York,Late,On-time,Late,Late,Missed,On-time,1
+CUST_1418,46,132952.18,603,0.716,5,68738.58,0.409,14,Unemployed,Standard,New York,On-time,Late,On-time,Missed,Late,Missed,0
+CUST_1419,66,109561.45,568,0.291,3,64213.73,0.424,3,Employed,Gold,New York,Late,Late,Missed,On-time,Late,Late,1
+CUST_1420,63,50556.19,653,0.632,1,15993.03,0.487,0,Employed,Platinum,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1421,70,200647.08,651,0.434,2,69320.33,0.25,7,Self-employed,Platinum,New York,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1422,48,224374.19,423,0.511,3,54580.91,0.228,2,Employed,Student,New York,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1423,52,75899.89,697,0.687,2,55945.13,0.378,13,Self-employed,Student,Los Angeles,Late,On-time,Missed,On-time,On-time,Late,0
+CUST_1424,50,83990.57,430,0.05,4,30328.67,0.371,16,Self-employed,Platinum,Houston,On-time,Late,On-time,On-time,On-time,Late,0
+CUST_1425,69,113728.0,673,0.259,2,34320.76,0.378,1,Employed,Standard,Phoenix,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1426,38,116242.18,681,0.129,2,72068.18,0.489,14,retired,Gold,Chicago,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1427,49,134493.4,482,0.236,4,85615.67,0.301,5,Employed,Student,New York,On-time,On-time,On-time,Late,Late,Late,0
+CUST_1428,40,247092.37,543,0.556,1,150000.0,0.343,4,Self-employed,Business,New York,Missed,On-time,On-time,On-time,Missed,On-time,1
+CUST_1429,50,92346.14,480,0.959,1,66106.22,0.202,13,Employed,Standard,New York,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1430,20,69821.11,561,0.472,2,48762.58,0.514,18,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,Late,On-time,Late,0
+CUST_1431,35,53757.14,552,0.761,5,14019.5,0.266,8,Employed,Standard,Los Angeles,Late,On-time,Missed,Late,Missed,On-time,1
+CUST_1432,42,71970.17,650,0.546,6,51525.85,0.269,7,Employed,Standard,Los Angeles,On-time,On-time,Missed,Late,On-time,On-time,0
+CUST_1433,59,98520.34,698,0.488,2,57653.42,0.265,2,Employed,Gold,Chicago,On-time,Missed,Late,Missed,On-time,On-time,0
+CUST_1434,48,224240.97,706,0.828,4,60744.08,0.236,17,Employed,Platinum,Phoenix,Late,Late,Missed,On-time,On-time,On-time,0
+CUST_1435,71,79221.29,529,0.745,2,18922.59,0.227,7,Employed,Standard,New York,Missed,Missed,On-time,Late,On-time,On-time,0
+CUST_1436,20,110594.99,561,0.248,2,69812.66,0.248,15,Self-employed,Student,Houston,On-time,Late,On-time,On-time,On-time,Late,0
+CUST_1437,57,99263.69,428,0.803,3,29674.07,0.163,14,Self-employed,Student,New York,On-time,On-time,Late,Late,On-time,Late,1
+CUST_1438,63,170706.75,507,0.05,4,94072.62,0.221,14,Employed,Business,New York,Missed,On-time,Missed,On-time,On-time,On-time,0
+CUST_1439,41,300000.0,667,0.428,3,38107.4,0.495,15,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1440,67,78750.08,725,0.476,3,5000.0,0.374,0,Employed,Gold,New York,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1441,49,80232.0,469,0.444,5,16803.86,0.393,9,Employed,Gold,Phoenix,Late,On-time,Missed,Late,Missed,Late,1
+CUST_1442,64,159979.0,527,0.49,3,34294.34,0.418,18,Employed,Standard,Houston,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1443,39,135913.87,578,0.326,5,65523.91,0.483,4,Employed,Gold,Los Angeles,Late,Late,On-time,Missed,Late,On-time,1
+CUST_1444,40,229565.52,605,0.455,5,100383.04,0.123,17,retired,Student,Houston,Missed,Late,Late,Late,Missed,On-time,1
+CUST_1445,19,130052.46,507,0.721,3,21833.51,0.177,2,Self-employed,Standard,New York,On-time,On-time,Missed,Late,Late,On-time,0
+CUST_1446,44,85071.22,618,0.617,5,5000.0,0.22,3,Employed,Business,Houston,Missed,Late,Missed,Late,Missed,Missed,1
+CUST_1447,59,130446.72,537,0.873,3,60622.75,0.253,3,Employed,Student,New York,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1448,19,164693.6,579,0.539,6,50852.74,0.27,10,Self-employed,Student,Houston,Late,Missed,On-time,Missed,On-time,On-time,1
+CUST_1449,43,144660.15,629,0.485,0,83458.12,0.255,8,Employed,Student,Chicago,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1450,34,125642.87,581,0.935,2,64059.47,0.322,0,Unemployed,Gold,Houston,Late,On-time,On-time,On-time,On-time,Missed,1
+CUST_1451,57,161608.02,541,0.718,4,22017.23,0.304,15,retired,Student,Los Angeles,On-time,Late,Missed,Missed,On-time,Late,1
+CUST_1452,50,169245.99,570,0.618,3,85249.7,0.228,8,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1453,26,186259.66,572,0.155,4,26746.55,0.1,10,Employed,Student,Houston,Missed,On-time,Late,On-time,Late,On-time,0
+CUST_1454,60,133899.52,547,0.823,5,31104.63,0.201,5,Unemployed,Standard,Houston,Missed,On-time,Missed,Late,On-time,Missed,0
+CUST_1455,71,92755.5,557,0.692,0,12287.52,0.245,16,retired,Standard,Phoenix,Missed,Missed,On-time,Missed,On-time,On-time,0
+CUST_1456,65,106824.93,724,0.34,2,62080.17,0.275,11,Self-employed,Gold,Houston,On-time,On-time,Missed,Missed,On-time,Missed,0
+CUST_1457,56,172104.05,630,0.563,3,109242.05,0.187,7,Self-employed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1458,46,69237.95,553,0.267,2,37442.98,0.251,15,Employed,Gold,Chicago,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1459,59,118045.86,643,0.781,2,44563.87,0.187,4,Employed,Gold,Los Angeles,Missed,On-time,On-time,Late,Late,Late,0
+CUST_1460,72,83777.77,550,0.77,3,24969.29,0.287,0,Self-employed,Student,Phoenix,Missed,On-time,Late,On-time,On-time,On-time,0
+CUST_1461,43,101301.92,686,0.819,1,37786.4,0.193,16,retired,Gold,Houston,Missed,Late,Late,On-time,Late,Missed,0
+CUST_1462,52,177766.97,613,0.414,3,85157.74,0.215,7,Self-employed,Gold,Chicago,Missed,On-time,On-time,On-time,Late,Late,0
+CUST_1463,67,108980.04,570,0.742,6,78585.05,0.169,9,Unemployed,Standard,Los Angeles,On-time,Late,On-time,On-time,Missed,Late,1
+CUST_1464,42,102111.63,620,0.182,4,15496.77,0.285,17,Employed,Gold,Chicago,Late,Late,Missed,Late,On-time,Late,0
+CUST_1465,41,54230.04,439,0.473,2,18625.09,0.213,14,Employed,Gold,New York,On-time,Late,On-time,On-time,On-time,Late,1
+CUST_1466,30,139907.89,479,0.435,2,81786.24,0.391,19,Employed,Platinum,Los Angeles,Late,Missed,On-time,On-time,On-time,On-time,0
+CUST_1467,24,133705.29,473,0.365,0,59005.15,0.341,12,Employed,Standard,New York,Missed,Late,On-time,On-time,On-time,On-time,1
+CUST_1468,74,264709.98,593,0.291,2,150000.0,0.293,9,Self-employed,Standard,Chicago,On-time,Late,Late,Late,On-time,On-time,0
+CUST_1469,53,87066.31,736,0.526,2,63199.83,0.22,8,Employed,Gold,Houston,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1470,62,110364.42,781,0.29,0,71719.4,0.338,12,Unemployed,Gold,Houston,On-time,Late,On-time,On-time,Missed,Late,0
+CUST_1471,37,111876.19,637,0.413,4,51356.9,0.369,2,Unemployed,Gold,Houston,On-time,Missed,Missed,Late,Missed,On-time,1
+CUST_1472,18,203369.43,625,0.65,2,133796.47,0.314,2,Employed,Student,New York,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1473,25,95802.35,418,0.473,4,57974.87,0.46,0,Employed,Standard,Houston,On-time,On-time,On-time,Missed,Late,Missed,1
+CUST_1474,63,113378.28,531,0.455,2,66854.17,0.346,1,Self-employed,Gold,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1475,33,131462.76,509,0.324,6,26938.28,0.391,10,retired,Platinum,Los Angeles,Late,On-time,Missed,Late,Late,Late,1
+CUST_1476,31,108760.07,524,0.609,3,28370.57,0.313,13,Self-employed,Standard,Los Angeles,On-time,On-time,Late,On-time,Late,Late,1
+CUST_1477,29,81799.82,565,0.634,5,39669.15,0.368,9,Employed,Platinum,Chicago,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1478,68,109126.82,538,0.359,1,46248.68,0.22,6,Employed,Gold,New York,Missed,Late,On-time,Late,On-time,On-time,0
+CUST_1479,40,162114.76,402,0.437,4,106120.25,0.254,0,Employed,Gold,Los Angeles,Late,On-time,On-time,On-time,Missed,On-time,1
+CUST_1480,32,63006.53,647,0.521,1,5000.0,0.335,6,Employed,Student,New York,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1481,45,106166.28,483,0.264,2,24280.53,0.334,14,Unemployed,Standard,Chicago,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1482,51,72974.92,602,0.892,2,57332.55,0.351,10,Unemployed,Student,Houston,Late,On-time,Late,On-time,On-time,On-time,1
+CUST_1483,19,171218.61,767,0.551,4,32311.25,0.41,5,Employed,Gold,Chicago,On-time,Late,Late,Missed,Missed,On-time,1
+CUST_1484,49,50387.14,497,0.284,5,17639.61,0.158,6,Employed,Platinum,Phoenix,Missed,Late,On-time,On-time,Late,Missed,1
+CUST_1485,40,77762.19,352,0.315,1,26047.25,0.203,6,Employed,Student,Houston,On-time,Late,Late,On-time,On-time,On-time,1
+CUST_1486,39,118500.3,554,0.05,1,46447.01,0.323,0,retired,Student,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1487,68,202280.63,679,0.292,2,62570.97,0.228,9,Employed,Platinum,Houston,Missed,On-time,Late,Late,Late,On-time,0
+CUST_1488,42,97084.58,756,0.158,3,51061.39,0.55,14,Self-employed,Student,Chicago,On-time,Late,Late,On-time,Late,On-time,0
+CUST_1489,39,77892.56,469,0.333,3,17841.13,0.352,7,Employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1490,39,233152.06,625,0.364,3,137368.16,0.292,18,Self-employed,Gold,New York,Missed,On-time,On-time,On-time,Missed,On-time,0
+CUST_1491,66,52120.79,538,0.172,2,5000.0,0.248,2,Employed,Standard,Chicago,On-time,On-time,Missed,Late,Late,On-time,1
+CUST_1492,69,37177.64,570,0.414,4,5000.0,0.252,14,Employed,Standard,Los Angeles,Late,Late,On-time,Late,On-time,Late,1
+CUST_1493,59,121897.03,818,0.831,5,17247.53,0.303,3,Self-employed,Student,Los Angeles,Late,On-time,Late,Missed,Late,On-time,1
+CUST_1494,23,79777.84,445,0.892,2,18290.35,0.311,5,Self-employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1495,32,63156.48,603,0.144,2,19543.93,0.254,9,Employed,Standard,New York,Missed,Missed,Missed,On-time,On-time,Missed,0
+CUST_1496,71,137542.17,622,0.593,1,36878.65,0.273,17,Employed,Student,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1497,60,111595.48,678,0.582,0,52581.69,0.434,15,Employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1498,54,77581.95,589,0.626,2,42307.47,0.438,17,Employed,Standard,Houston,Missed,On-time,Late,On-time,On-time,Late,0
+CUST_1499,50,56206.54,608,0.383,5,14024.77,0.325,5,Self-employed,Gold,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1500,25,148083.45,545,0.648,4,36597.57,0.166,18,retired,Gold,Houston,Late,On-time,On-time,Missed,Late,On-time,1
+CUST_1501,70,133989.4,604,0.664,3,56750.8,0.354,16,Employed,Student,Los Angeles,Late,On-time,Missed,On-time,Missed,On-time,0
+CUST_1502,61,95635.21,549,0.88,5,58280.77,0.455,17,Employed,Gold,New York,On-time,Late,Late,Late,On-time,On-time,1
+CUST_1503,61,229558.26,636,0.571,1,37357.82,0.437,12,Employed,Gold,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1504,22,61783.23,547,0.146,4,21017.18,0.373,6,Employed,Platinum,Los Angeles,On-time,Missed,Late,Missed,Late,Missed,1
+CUST_1505,56,50334.15,614,0.429,1,57438.36,0.442,19,Employed,Gold,Phoenix,Late,Late,On-time,On-time,On-time,On-time,0
+CUST_1506,21,73245.11,577,0.525,2,17368.74,0.305,11,Self-employed,Platinum,Houston,On-time,On-time,On-time,Missed,Late,Late,0
+CUST_1507,23,97969.53,681,0.389,3,42673.12,0.363,1,Employed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1508,62,111572.31,575,0.654,3,13382.64,0.232,11,Self-employed,Gold,Phoenix,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1509,49,89712.85,420,0.253,3,53871.49,0.329,11,Unemployed,Gold,Los Angeles,On-time,On-time,Late,Late,On-time,Missed,0
+CUST_1510,69,117166.4,694,0.881,2,36452.63,0.433,3,retired,Standard,Chicago,Late,On-time,On-time,Late,On-time,On-time,0
+CUST_1511,47,56938.82,498,0.459,1,27953.76,0.241,3,retired,Platinum,New York,Missed,Late,On-time,Late,On-time,On-time,0
+CUST_1512,64,191495.49,521,0.233,2,61524.04,0.214,17,Unemployed,Standard,Los Angeles,On-time,Late,Late,Late,On-time,Missed,0
+CUST_1513,52,96370.69,526,0.285,4,33558.57,0.31,15,retired,Gold,Houston,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1514,72,165331.63,704,0.823,4,21966.61,0.277,13,Employed,Student,New York,Late,Late,Late,Late,Missed,Late,1
+CUST_1515,57,116675.5,388,0.288,6,38096.28,0.365,16,Employed,Gold,Chicago,Late,Late,Missed,Late,Missed,On-time,1
+CUST_1516,69,122818.68,850,0.584,1,55777.31,0.255,16,Employed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1517,33,129226.34,675,0.828,3,58926.14,0.472,2,Self-employed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1518,30,122319.81,600,0.271,1,61407.83,0.171,5,retired,Standard,Houston,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1519,67,133539.25,575,0.792,2,66306.72,0.425,12,Employed,Platinum,Los Angeles,Missed,Late,On-time,Late,Late,On-time,1
+CUST_1520,59,181869.4,606,0.686,2,98633.84,0.224,8,Self-employed,Platinum,Houston,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1521,47,109246.27,627,0.159,2,38673.63,0.12,8,Self-employed,Standard,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1522,36,137582.24,638,0.615,1,91307.05,0.324,7,retired,Business,New York,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1523,34,96042.34,630,0.786,3,54845.22,0.275,16,Self-employed,Standard,Chicago,Missed,Missed,Late,Late,Late,On-time,0
+CUST_1524,73,191181.44,588,0.132,5,61573.69,0.189,15,retired,Business,Chicago,Missed,On-time,Missed,Late,Late,Missed,0
+CUST_1525,36,73758.31,562,0.453,1,49489.43,0.132,15,Employed,Standard,New York,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1526,45,224885.95,566,0.487,1,138646.97,0.299,18,Employed,Standard,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1527,72,98209.12,562,0.369,3,32991.71,0.398,15,Employed,Standard,New York,On-time,Missed,Missed,On-time,On-time,On-time,1
+CUST_1528,43,52526.69,682,0.401,4,22556.85,0.358,13,Employed,Standard,Los Angeles,On-time,On-time,Late,Missed,Late,On-time,0
+CUST_1529,54,105934.1,633,0.248,0,18273.57,0.306,19,Employed,Platinum,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1530,43,73603.82,315,0.55,2,65324.21,0.348,13,Self-employed,Platinum,New York,Late,On-time,On-time,On-time,Late,Missed,0
+CUST_1531,70,145978.56,639,0.05,3,44135.65,0.297,13,Unemployed,Student,New York,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1532,40,74551.44,598,0.497,2,5000.0,0.157,13,Self-employed,Standard,Houston,On-time,Missed,On-time,Late,On-time,Late,0
+CUST_1533,26,81809.03,578,0.461,3,29642.0,0.158,11,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1534,29,42728.96,545,0.431,3,15383.55,0.28,5,Employed,Platinum,Los Angeles,Late,On-time,Late,Late,On-time,On-time,0
+CUST_1535,70,81583.93,681,0.645,4,45757.99,0.284,19,Employed,Gold,Houston,Missed,Missed,Late,On-time,On-time,Late,0
+CUST_1536,18,33596.59,665,0.514,4,9110.15,0.385,12,Employed,Platinum,Chicago,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1537,18,49029.1,510,0.519,4,14009.09,0.376,15,Self-employed,Platinum,New York,Missed,Missed,On-time,On-time,On-time,Late,1
+CUST_1538,64,140802.3,617,0.416,4,43491.44,0.361,8,Employed,Standard,Houston,Late,On-time,On-time,Late,On-time,On-time,0
+CUST_1539,51,142419.97,493,0.351,3,80498.27,0.272,1,Employed,Student,Los Angeles,Late,On-time,On-time,On-time,Late,On-time,0
+CUST_1540,49,121101.14,456,0.451,0,27475.12,0.162,2,Unemployed,Platinum,Houston,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1541,71,64717.45,524,0.843,3,36368.05,0.341,9,Employed,Platinum,New York,On-time,On-time,On-time,On-time,Missed,Late,0
+CUST_1542,65,97875.87,658,0.604,2,40712.66,0.353,19,retired,Standard,Phoenix,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1543,42,99838.02,666,0.055,2,36462.09,0.1,1,Employed,Standard,Houston,On-time,Missed,On-time,On-time,On-time,Missed,0
+CUST_1544,57,59376.95,626,0.587,1,26134.06,0.217,9,retired,Gold,Chicago,On-time,Late,Missed,On-time,On-time,On-time,0
+CUST_1545,62,196703.87,645,0.714,5,95365.17,0.231,7,Employed,Standard,New York,Missed,On-time,On-time,Missed,Late,Late,1
+CUST_1546,70,148410.67,626,0.153,3,57918.86,0.312,16,Self-employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1547,18,90534.98,522,0.664,1,68258.41,0.22,0,Employed,Student,New York,Late,On-time,On-time,On-time,Late,On-time,0
+CUST_1548,33,101217.21,619,0.492,6,39973.28,0.296,5,Unemployed,Platinum,Phoenix,Late,Missed,Late,On-time,On-time,On-time,1
+CUST_1549,56,109830.96,652,0.897,2,10861.62,0.279,6,Employed,Gold,Los Angeles,On-time,On-time,Late,Late,On-time,On-time,0
+CUST_1550,22,39900.53,648,0.294,0,22331.56,0.284,14,Employed,Standard,Phoenix,On-time,Missed,On-time,On-time,On-time,Missed,0
+CUST_1551,39,89473.31,687,0.545,5,37563.23,0.228,17,Unemployed,Business,Phoenix,On-time,Missed,Missed,On-time,Missed,Missed,0
+CUST_1552,46,73572.94,644,0.363,0,30628.58,0.236,8,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1553,72,63716.35,612,0.816,2,29564.64,0.192,7,Employed,Student,Houston,On-time,Late,Late,Late,On-time,On-time,0
+CUST_1554,20,88117.84,676,0.427,3,24762.47,0.338,9,Employed,Business,Chicago,Missed,Missed,On-time,Late,Late,Missed,0
+CUST_1555,29,224556.9,578,0.813,2,138942.65,0.357,3,Self-employed,Platinum,Chicago,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1556,43,133426.33,501,0.192,6,51462.91,0.223,19,Employed,Business,Chicago,On-time,Late,On-time,On-time,Late,Missed,0
+CUST_1557,33,77334.46,565,0.515,5,32189.42,0.452,7,Employed,Platinum,Los Angeles,On-time,Missed,On-time,Late,On-time,On-time,1
+CUST_1558,68,129390.17,513,0.56,2,37139.22,0.269,0,Employed,Standard,Houston,Missed,On-time,On-time,On-time,Late,On-time,0
+CUST_1559,54,187706.61,519,0.66,5,67260.8,0.453,7,Self-employed,Standard,Houston,Late,Late,Late,Missed,Late,Missed,1
+CUST_1560,39,151601.5,567,0.805,5,97299.92,0.236,11,Unemployed,Standard,Los Angeles,Missed,On-time,Missed,On-time,On-time,Late,1
+CUST_1561,74,102719.69,509,0.553,2,58709.43,0.1,14,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1562,46,74742.48,552,0.166,2,6481.87,0.34,12,Employed,Platinum,Chicago,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1563,31,136916.42,410,0.337,4,34276.15,0.325,15,Employed,Standard,Phoenix,Late,Late,On-time,Late,On-time,Late,1
+CUST_1564,45,119371.28,599,0.22,3,37626.79,0.303,17,Employed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1565,22,149606.29,580,0.871,2,69143.7,0.236,0,Employed,Gold,New York,Late,On-time,On-time,Missed,On-time,On-time,0
+CUST_1566,64,133086.26,506,0.59,5,83060.02,0.297,16,Employed,Gold,Phoenix,Late,Missed,On-time,Late,Missed,Missed,1
+CUST_1567,66,160367.64,639,0.402,6,86329.11,0.249,15,Employed,Business,Houston,Late,Missed,Late,Late,Late,On-time,0
+CUST_1568,47,78595.49,664,0.565,4,40375.26,0.27,4,retired,Standard,Los Angeles,Missed,On-time,Missed,On-time,On-time,On-time,0
+CUST_1569,63,180909.61,435,0.614,3,100573.01,0.384,19,Employed,Platinum,Chicago,On-time,Missed,Late,On-time,Missed,On-time,0
+CUST_1570,69,109299.3,511,0.571,5,50843.94,0.318,9,Self-employed,Student,New York,Late,Late,On-time,On-time,On-time,Late,1
+CUST_1571,22,254433.01,511,0.639,2,57899.88,0.361,5,Employed,Standard,Phoenix,On-time,Late,On-time,On-time,Late,Late,1
+CUST_1572,29,73334.83,495,0.713,6,31831.05,0.277,11,Employed,Gold,New York,On-time,Missed,On-time,On-time,Late,Late,1
+CUST_1573,33,218405.6,655,0.268,2,136621.99,0.266,9,Unemployed,Gold,Los Angeles,Late,Missed,On-time,Missed,Missed,On-time,1
+CUST_1574,43,109314.61,563,0.505,4,50195.7,0.185,16,Employed,Student,Los Angeles,On-time,Missed,Late,Late,On-time,Missed,0
+CUST_1575,43,74591.91,556,0.59,1,37841.14,0.263,1,Employed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1576,65,80432.76,400,0.729,3,37675.05,0.1,18,Self-employed,Gold,New York,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1577,38,86575.24,637,0.718,2,48248.18,0.241,19,Employed,Student,New York,On-time,On-time,On-time,On-time,Missed,Missed,0
+CUST_1578,56,121030.78,468,0.347,5,55140.57,0.292,5,Employed,Standard,Chicago,On-time,Late,Late,On-time,On-time,On-time,1
+CUST_1579,53,126525.79,585,0.239,3,27441.66,0.356,12,Employed,Student,Houston,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1580,50,77246.78,605,0.467,2,45106.44,0.273,8,Employed,Student,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1581,47,98910.03,702,0.605,2,67815.29,0.335,11,Self-employed,Student,Phoenix,On-time,On-time,On-time,Missed,Missed,Late,0
+CUST_1582,54,262222.1,462,0.783,0,84843.13,0.1,17,Employed,Student,Phoenix,Late,On-time,Late,On-time,On-time,On-time,1
+CUST_1583,40,217579.57,308,0.267,4,82612.94,0.294,7,Employed,Gold,New York,On-time,Late,Late,Late,On-time,Late,0
+CUST_1584,27,121694.75,597,0.14,2,46020.66,0.132,17,Employed,Business,New York,Late,Late,On-time,Late,On-time,On-time,0
+CUST_1585,71,101724.86,742,0.28,4,24636.24,0.179,1,Employed,Gold,New York,Late,On-time,On-time,On-time,On-time,Missed,0
+CUST_1586,22,105549.95,692,0.138,1,51214.76,0.281,7,retired,Platinum,Chicago,On-time,Missed,On-time,On-time,On-time,Late,0
+CUST_1587,53,131795.74,599,0.609,3,42920.07,0.428,9,Employed,Standard,Chicago,Late,On-time,On-time,On-time,On-time,Missed,0
+CUST_1588,51,63112.16,536,0.586,3,53254.0,0.337,8,retired,Business,Chicago,Late,On-time,Missed,Late,Missed,On-time,0
+CUST_1589,69,89063.6,653,0.685,0,15198.67,0.302,17,Self-employed,Platinum,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1590,48,47195.92,492,0.283,1,16825.01,0.298,7,Unemployed,Student,Los Angeles,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1591,27,119679.89,623,0.71,4,13969.62,0.229,18,Employed,Standard,Chicago,On-time,On-time,Late,Missed,On-time,On-time,0
+CUST_1592,36,133808.32,625,0.3,1,70330.63,0.246,2,Employed,Student,Chicago,On-time,Late,Late,On-time,On-time,On-time,0
+CUST_1593,49,80458.08,675,0.625,2,29607.09,0.343,8,Unemployed,Student,Chicago,On-time,On-time,Late,Late,On-time,Missed,0
+CUST_1594,18,203052.43,828,0.915,3,98839.02,0.161,12,Unemployed,Platinum,Phoenix,Late,On-time,Late,Late,On-time,Late,1
+CUST_1595,73,57603.06,615,0.276,1,12103.23,0.359,8,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1596,22,51738.46,534,0.326,4,20955.64,0.261,19,Employed,Gold,Phoenix,On-time,Missed,Missed,Missed,On-time,Late,0
+CUST_1597,62,110628.03,578,0.337,1,10196.33,0.383,11,Employed,Standard,Houston,On-time,On-time,On-time,On-time,Missed,On-time,1
+CUST_1598,21,160190.61,421,0.364,5,43765.87,0.396,12,retired,Gold,Los Angeles,Missed,Missed,Missed,Missed,Late,On-time,1
+CUST_1599,33,213350.78,517,0.31,1,96677.69,0.133,7,Employed,Standard,New York,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1600,41,81342.8,543,0.399,1,39785.47,0.242,14,Self-employed,Standard,Chicago,On-time,On-time,On-time,Late,On-time,Missed,0
+CUST_1601,33,162483.52,533,0.448,5,66172.44,0.214,12,Self-employed,Standard,Phoenix,Late,On-time,Missed,On-time,Late,On-time,1
+CUST_1602,72,98282.05,594,0.646,0,50889.62,0.119,12,Unemployed,Standard,Los Angeles,On-time,Late,Late,On-time,On-time,Late,0
+CUST_1603,19,92525.83,506,0.726,2,38374.14,0.197,16,Self-employed,Standard,Chicago,On-time,Late,Late,On-time,On-time,Late,0
+CUST_1604,66,148831.85,681,0.679,2,30631.31,0.544,14,Employed,Business,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1605,45,134117.39,580,0.528,3,24399.92,0.361,18,retired,Gold,New York,Late,On-time,Missed,On-time,Late,On-time,0
+CUST_1606,49,49195.08,579,0.158,1,22945.0,0.492,2,Self-employed,Gold,Chicago,Late,On-time,On-time,On-time,Late,On-time,1
+CUST_1607,44,194340.8,550,0.876,4,115378.53,0.383,13,Self-employed,Gold,New York,Late,On-time,Late,On-time,On-time,Missed,1
+CUST_1608,37,186086.44,594,0.537,4,40967.55,0.226,9,Employed,Platinum,Chicago,Late,On-time,Missed,On-time,Missed,On-time,1
+CUST_1609,41,75464.85,654,0.489,2,34782.52,0.262,16,Self-employed,Business,Houston,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1610,29,119495.87,502,0.737,2,57420.13,0.359,7,Employed,Standard,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1611,67,124896.3,521,0.453,2,55220.1,0.344,17,Employed,Standard,New York,Missed,On-time,On-time,On-time,On-time,Late,0
+CUST_1612,52,112446.03,553,0.533,2,47074.26,0.242,11,Self-employed,Business,New York,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1613,50,78064.3,459,0.633,5,19133.53,0.149,16,Employed,Gold,Los Angeles,Late,Missed,Late,Missed,On-time,On-time,1
+CUST_1614,50,73916.77,506,0.756,4,18090.72,0.55,10,Self-employed,Standard,New York,Late,Late,On-time,Late,On-time,Missed,1
+CUST_1615,68,98856.65,537,0.442,0,56153.33,0.286,8,Employed,Standard,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1616,60,169507.68,659,0.564,3,84801.85,0.267,14,Self-employed,Standard,Los Angeles,Late,Missed,On-time,On-time,On-time,Late,0
+CUST_1617,54,127713.6,604,0.799,5,50012.42,0.311,8,Employed,Business,Houston,Missed,Late,Late,Missed,On-time,Missed,1
+CUST_1618,29,84638.88,597,0.533,2,60802.24,0.276,11,Self-employed,Standard,Chicago,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1619,20,141519.09,657,0.446,2,84422.51,0.312,10,Employed,Business,Chicago,On-time,Late,On-time,On-time,On-time,Missed,1
+CUST_1620,18,27752.5,568,0.561,1,13525.23,0.429,16,Self-employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1621,50,167689.62,615,0.394,6,61845.12,0.288,5,Unemployed,Gold,Phoenix,On-time,Missed,Missed,Missed,Missed,Late,0
+CUST_1622,57,45709.17,571,0.605,0,6135.96,0.184,7,Employed,Standard,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1623,27,84950.76,604,0.612,0,7928.03,0.284,9,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1624,60,60419.91,528,0.649,1,34527.55,0.254,14,Self-employed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1625,61,55844.08,361,0.305,1,5000.0,0.442,3,Self-employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1626,46,168602.22,568,0.52,0,84483.04,0.417,17,Self-employed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1627,30,81020.7,708,0.642,1,64014.69,0.311,10,Self-employed,Gold,Los Angeles,Late,On-time,Late,On-time,On-time,On-time,0
+CUST_1628,29,116874.06,663,0.594,4,41015.03,0.172,8,Employed,Business,Phoenix,Late,Late,On-time,On-time,On-time,On-time,0
+CUST_1629,48,97910.71,667,0.558,1,41777.16,0.177,8,Employed,Gold,Phoenix,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1630,63,123945.08,691,0.62,6,79362.19,0.302,7,Employed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,Missed,1
+CUST_1631,19,103517.43,588,0.288,1,53904.22,0.334,2,Employed,Student,Phoenix,Late,On-time,Missed,On-time,On-time,On-time,1
+CUST_1632,68,56138.6,598,0.402,2,16376.64,0.263,17,Self-employed,Standard,New York,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1633,67,156567.97,524,0.351,4,56927.63,0.252,13,Employed,Standard,Houston,On-time,On-time,Late,Late,Missed,Late,0
+CUST_1634,52,80076.28,552,0.504,6,35875.78,0.241,2,retired,Standard,Phoenix,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1635,40,49635.6,635,0.756,4,22927.83,0.298,16,Unemployed,Standard,Phoenix,On-time,Missed,On-time,On-time,Missed,Missed,1
+CUST_1636,34,82476.91,688,0.327,1,50111.59,0.1,3,Unemployed,Gold,Los Angeles,Late,On-time,Late,On-time,On-time,On-time,0
+CUST_1637,43,196470.46,567,0.531,2,71269.36,0.19,17,retired,Standard,Chicago,Late,Late,On-time,On-time,On-time,On-time,1
+CUST_1638,25,146609.12,539,0.359,6,79804.69,0.237,14,Employed,Gold,New York,On-time,Late,Late,Missed,Late,Missed,1
+CUST_1639,46,85479.51,580,0.28,2,16596.37,0.421,18,Unemployed,Business,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1640,43,85456.22,634,0.544,1,44998.65,0.219,5,Employed,Standard,Houston,On-time,On-time,On-time,Late,Late,Late,0
+CUST_1641,27,86525.09,450,0.283,5,42825.81,0.318,14,Employed,Gold,Houston,Missed,Missed,On-time,Late,Late,Late,1
+CUST_1642,43,254603.33,373,0.533,4,86317.35,0.323,6,Unemployed,Standard,Houston,Late,On-time,Late,On-time,Late,On-time,1
+CUST_1643,51,118752.46,530,0.598,1,47391.26,0.43,11,Employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1644,68,121351.21,470,0.323,4,27681.12,0.426,15,retired,Gold,Houston,Late,On-time,On-time,Late,Late,On-time,1
+CUST_1645,58,158983.07,534,0.498,2,43035.88,0.294,8,Self-employed,Business,Los Angeles,Late,Late,On-time,On-time,On-time,On-time,0
+CUST_1646,24,111344.09,567,0.842,5,8149.68,0.252,19,Unemployed,Gold,New York,Missed,Missed,Missed,Missed,Missed,On-time,1
+CUST_1647,21,88996.87,539,0.141,2,19296.64,0.234,4,Employed,Standard,Houston,On-time,On-time,Late,Late,On-time,Late,0
+CUST_1648,70,91543.36,711,0.437,1,42118.06,0.276,10,Self-employed,Gold,Chicago,Missed,On-time,Late,On-time,Late,On-time,0
+CUST_1649,67,96829.3,609,0.887,0,52812.69,0.257,1,Employed,Standard,Phoenix,Late,On-time,On-time,On-time,Missed,On-time,0
+CUST_1650,62,98338.95,607,0.59,2,60057.68,0.355,15,Unemployed,Standard,New York,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1651,28,138740.25,636,0.762,1,41267.32,0.342,3,Employed,Platinum,Chicago,Late,On-time,On-time,On-time,On-time,Late,0
+CUST_1652,46,102365.1,478,0.758,1,66751.75,0.359,4,Self-employed,Standard,New York,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1653,73,139053.43,674,0.735,1,63415.99,0.426,6,Employed,Gold,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1654,53,96432.93,573,0.593,3,61019.0,0.486,5,Employed,Platinum,New York,On-time,On-time,Late,On-time,Missed,On-time,1
+CUST_1655,42,103601.94,640,0.644,6,57894.55,0.312,9,Employed,Gold,New York,Late,On-time,Missed,Missed,Missed,Missed,0
+CUST_1656,38,40689.9,484,0.348,2,5750.7,0.41,13,Employed,Standard,New York,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1657,74,151035.91,440,0.45,0,39609.33,0.265,7,Self-employed,Business,Los Angeles,Late,On-time,Late,On-time,On-time,Late,0
+CUST_1658,53,116873.25,654,0.8,2,60347.04,0.419,13,Employed,Gold,Chicago,Missed,On-time,Missed,Missed,Late,On-time,0
+CUST_1659,27,156690.85,614,0.814,1,14407.35,0.406,13,Employed,Student,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1660,54,27162.99,499,0.495,6,5000.0,0.401,19,Self-employed,Standard,Phoenix,Late,Late,On-time,Late,On-time,On-time,1
+CUST_1661,26,255938.92,502,0.557,4,54952.71,0.309,2,Employed,Gold,Houston,Late,On-time,On-time,Late,Missed,On-time,1
+CUST_1662,41,93911.69,681,0.342,0,24952.62,0.233,0,Employed,Gold,Houston,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1663,52,164655.01,473,0.63,3,45941.2,0.161,8,Unemployed,Standard,Los Angeles,On-time,Missed,Late,On-time,Missed,Missed,1
+CUST_1664,66,62628.0,728,0.16,5,26312.83,0.296,8,Employed,Standard,Los Angeles,Missed,On-time,On-time,Late,On-time,On-time,0
+CUST_1665,52,131751.61,499,0.328,2,38516.82,0.453,1,Employed,Gold,New York,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1666,65,62248.42,637,0.56,3,19012.63,0.269,15,Employed,Student,Houston,On-time,Late,On-time,Missed,On-time,On-time,0
+CUST_1667,53,75525.79,550,0.489,2,46565.6,0.379,7,Employed,Platinum,Chicago,Late,Late,On-time,On-time,On-time,On-time,0
+CUST_1668,35,236626.82,634,0.569,1,54731.37,0.384,5,Employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1669,66,91777.13,531,0.463,5,35566.64,0.272,12,Employed,Gold,Los Angeles,Missed,On-time,Missed,Late,Missed,Late,1
+CUST_1670,56,110279.16,565,0.123,3,16710.74,0.432,0,Unemployed,Student,Chicago,On-time,Late,On-time,On-time,Missed,Late,0
+CUST_1671,49,147924.3,584,0.777,3,52615.4,0.1,18,Employed,Platinum,Los Angeles,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1672,41,124989.16,490,0.43,2,9450.6,0.178,14,Employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1673,40,107003.19,647,0.496,5,35589.57,0.208,0,Employed,Student,Phoenix,Late,Late,On-time,Late,On-time,Late,0
+CUST_1674,49,117848.82,534,0.811,2,56977.43,0.218,9,Self-employed,Standard,Chicago,On-time,Late,Missed,Missed,On-time,On-time,0
+CUST_1675,54,294920.9,559,0.707,2,124072.39,0.334,0,retired,Gold,Phoenix,Late,On-time,On-time,Missed,On-time,Missed,1
+CUST_1676,29,97440.48,491,0.825,2,20248.21,0.329,11,Employed,Gold,New York,On-time,Missed,On-time,On-time,On-time,Missed,1
+CUST_1677,66,109471.56,349,0.465,0,25774.48,0.339,10,retired,Student,New York,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1678,72,160447.16,563,0.394,3,84632.12,0.36,16,Employed,Business,Los Angeles,On-time,Late,On-time,Late,Late,On-time,1
+CUST_1679,30,164458.27,797,0.765,5,95764.18,0.205,3,Employed,Business,Chicago,Late,Late,On-time,On-time,On-time,Missed,1
+CUST_1680,40,170602.08,651,0.523,2,105247.73,0.178,6,Employed,Standard,Los Angeles,On-time,On-time,Late,Late,On-time,Late,0
+CUST_1681,42,133299.54,578,0.37,2,51614.09,0.34,11,Employed,Business,Chicago,On-time,On-time,On-time,Late,Late,On-time,1
+CUST_1682,52,59788.78,556,0.859,3,15450.9,0.237,12,Employed,Standard,Los Angeles,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1683,58,208557.42,582,0.341,2,77506.63,0.143,4,Employed,Standard,New York,On-time,On-time,Late,On-time,Missed,Late,1
+CUST_1684,47,59698.97,629,0.453,5,18975.25,0.397,5,Employed,Gold,New York,Missed,Missed,Missed,Missed,Late,On-time,0
+CUST_1685,34,114589.5,474,0.478,3,7302.24,0.44,1,Employed,Gold,Los Angeles,On-time,Late,On-time,Late,Missed,On-time,0
+CUST_1686,66,71218.03,680,0.663,2,56838.64,0.456,6,Employed,Platinum,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1687,37,97155.03,644,0.318,4,35127.62,0.319,13,Employed,Gold,Houston,Missed,On-time,On-time,On-time,Late,On-time,0
+CUST_1688,65,115944.69,645,0.151,2,38688.34,0.363,13,Unemployed,Business,Chicago,On-time,On-time,On-time,Late,On-time,Missed,0
+CUST_1689,42,115558.97,619,0.586,2,38214.61,0.437,9,Employed,Standard,Los Angeles,On-time,Late,On-time,On-time,Missed,On-time,0
+CUST_1690,39,120908.56,582,0.534,3,40804.94,0.236,3,Self-employed,Standard,Chicago,On-time,On-time,Missed,On-time,On-time,Late,0
+CUST_1691,30,206714.84,641,0.232,5,82953.83,0.411,2,Self-employed,Business,Phoenix,Late,Late,On-time,Late,On-time,Late,1
+CUST_1692,36,122640.91,633,0.502,2,25573.4,0.328,13,Employed,Standard,Chicago,On-time,On-time,On-time,Missed,On-time,Late,0
+CUST_1693,66,89595.02,548,0.225,4,5000.0,0.391,5,Employed,Platinum,New York,On-time,On-time,Late,Missed,On-time,Late,0
+CUST_1694,53,154317.07,528,0.631,5,89169.75,0.319,14,Employed,Platinum,New York,Missed,On-time,On-time,Missed,Late,On-time,0
+CUST_1695,29,170789.52,589,0.25,4,77068.69,0.43,7,Self-employed,Gold,Phoenix,On-time,On-time,On-time,On-time,Missed,Missed,1
+CUST_1696,58,57555.33,719,0.601,1,24073.56,0.322,4,Employed,Platinum,Chicago,On-time,Late,On-time,On-time,Late,On-time,0
+CUST_1697,36,130843.27,468,0.665,2,33416.68,0.152,2,Employed,Standard,Houston,On-time,Late,Late,Late,On-time,On-time,0
+CUST_1698,29,137098.26,448,0.511,1,65642.24,0.445,2,Employed,Student,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1699,26,87467.44,595,0.836,5,50983.44,0.205,12,Unemployed,Standard,New York,Late,Missed,Missed,Missed,Late,On-time,1
+CUST_1700,24,185719.65,585,0.061,0,77984.64,0.425,1,Employed,Gold,New York,Late,On-time,On-time,On-time,On-time,On-time,1
+CUST_1701,45,93470.43,596,0.736,5,23763.12,0.291,0,Self-employed,Standard,Los Angeles,Missed,On-time,Missed,Missed,Late,Missed,0
+CUST_1702,31,105813.66,602,0.547,4,25844.92,0.418,11,Employed,Gold,New York,Late,Missed,On-time,Missed,Late,On-time,1
+CUST_1703,48,92507.33,560,0.694,3,26695.96,0.413,7,Unemployed,Platinum,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1704,69,100703.52,714,0.799,3,36953.26,0.343,18,Employed,Business,New York,Missed,Late,On-time,On-time,On-time,On-time,0
+CUST_1705,36,61059.35,436,0.479,3,22749.5,0.351,8,Employed,Platinum,New York,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1706,64,52307.89,505,0.87,1,25985.87,0.342,13,retired,Gold,Houston,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1707,33,204935.94,571,0.313,1,59968.41,0.1,17,Self-employed,Business,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1708,70,68308.73,432,0.383,2,24578.35,0.312,9,Employed,Gold,Los Angeles,Late,Late,On-time,Late,Late,On-time,0
+CUST_1709,22,64010.28,564,0.264,3,49023.67,0.188,8,Employed,Gold,New York,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1710,52,37945.26,730,0.601,3,5000.0,0.317,5,Unemployed,Gold,Los Angeles,On-time,On-time,Late,Late,Late,On-time,0
+CUST_1711,29,75011.2,582,0.181,3,28350.67,0.186,0,Unemployed,Gold,New York,Late,On-time,Late,On-time,On-time,On-time,1
+CUST_1712,42,55134.73,601,0.624,2,27378.09,0.182,4,Employed,Student,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1713,69,209364.55,467,0.903,5,62910.62,0.46,9,Self-employed,Standard,Chicago,Late,On-time,On-time,Missed,On-time,On-time,1
+CUST_1714,38,157525.58,525,0.681,2,109048.17,0.407,12,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1715,53,73369.08,546,0.529,2,5000.0,0.3,3,Employed,Platinum,Phoenix,On-time,Missed,On-time,On-time,On-time,On-time,1
+CUST_1716,70,275549.23,551,0.3,2,150000.0,0.318,0,Self-employed,Business,Los Angeles,On-time,Late,Late,On-time,Late,On-time,0
+CUST_1717,40,155549.6,695,0.847,5,35212.55,0.275,1,Employed,Student,Los Angeles,Late,Missed,On-time,On-time,Missed,On-time,1
+CUST_1718,33,86400.72,630,0.855,4,8708.86,0.357,3,retired,Gold,Houston,On-time,Late,On-time,Late,On-time,Missed,0
+CUST_1719,74,32473.93,480,0.466,5,35748.7,0.232,16,Unemployed,Platinum,Phoenix,Missed,Late,On-time,On-time,Missed,On-time,1
+CUST_1720,56,280365.57,602,0.131,3,105067.48,0.399,9,Self-employed,Gold,Phoenix,Missed,Missed,Late,Late,Late,On-time,0
+CUST_1721,62,53509.68,625,0.557,5,12221.86,0.275,11,Employed,Gold,Houston,Missed,Late,On-time,Late,Missed,On-time,0
+CUST_1722,70,47690.91,683,0.478,5,5000.0,0.258,1,Employed,Business,Houston,On-time,Missed,Late,Late,Late,Missed,0
+CUST_1723,59,158432.22,722,0.552,2,76752.96,0.302,2,Employed,Business,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1724,56,299782.97,489,0.7,4,110131.9,0.241,13,Self-employed,Student,Chicago,On-time,On-time,Late,Late,On-time,On-time,1
+CUST_1725,31,186436.92,507,0.287,1,124731.4,0.333,14,Self-employed,Standard,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1726,48,128886.13,467,0.315,1,80830.01,0.246,12,Employed,Student,Phoenix,Missed,On-time,On-time,Missed,On-time,Late,0
+CUST_1727,22,130687.59,559,0.844,2,56304.51,0.347,8,Self-employed,Business,Phoenix,Late,On-time,Late,On-time,Late,Late,0
+CUST_1728,52,146819.98,622,0.353,2,58420.59,0.422,1,Unemployed,Gold,Los Angeles,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1729,40,140708.17,669,0.298,3,52973.78,0.228,18,Employed,Gold,Chicago,On-time,Late,Late,On-time,On-time,Late,0
+CUST_1730,46,113489.05,573,0.336,3,44863.96,0.287,15,Employed,Student,New York,Late,Late,Late,On-time,On-time,Late,0
+CUST_1731,60,104800.72,551,0.642,2,49056.38,0.346,10,Unemployed,Gold,Houston,On-time,On-time,On-time,Late,On-time,Missed,1
+CUST_1732,28,97222.61,594,0.255,4,25673.34,0.256,11,Employed,Business,Houston,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1733,35,71228.01,505,0.108,2,5000.0,0.346,0,Self-employed,Gold,Los Angeles,Late,On-time,Missed,On-time,Late,On-time,0
+CUST_1734,64,88134.71,768,0.807,2,8032.03,0.356,1,Employed,Platinum,Chicago,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1735,29,46681.11,435,0.35,4,5000.0,0.408,15,retired,Student,Phoenix,On-time,Late,Missed,On-time,Late,Late,1
+CUST_1736,26,95671.2,597,0.576,3,45824.52,0.239,1,Employed,Gold,Phoenix,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1737,27,64091.02,762,0.532,5,37978.67,0.206,18,Employed,Student,New York,On-time,Late,Late,Late,Late,On-time,0
+CUST_1738,61,60858.71,581,0.291,6,27889.26,0.269,9,Employed,Gold,Phoenix,Late,On-time,Late,On-time,On-time,On-time,1
+CUST_1739,34,108431.92,563,0.754,1,30752.75,0.203,18,Employed,Gold,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1740,55,187086.53,548,0.801,5,32973.04,0.356,9,Employed,Standard,New York,Missed,Late,Late,Late,Missed,Missed,1
+CUST_1741,24,151171.15,564,0.307,2,60560.77,0.184,15,Employed,Gold,Chicago,On-time,On-time,On-time,Late,Late,On-time,0
+CUST_1742,63,49325.68,704,0.467,5,13277.17,0.533,12,retired,Platinum,New York,Late,On-time,Missed,Missed,On-time,On-time,0
+CUST_1743,30,64061.11,381,0.455,3,37659.18,0.43,15,retired,Business,Chicago,On-time,On-time,Missed,On-time,On-time,On-time,1
+CUST_1744,57,152706.41,718,0.509,2,100878.13,0.301,17,Employed,Standard,Phoenix,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1745,59,64267.29,452,0.491,3,18218.16,0.387,7,Self-employed,Gold,Los Angeles,Late,Late,On-time,On-time,On-time,Missed,1
+CUST_1746,26,90385.63,556,0.463,1,28139.98,0.136,17,Employed,Standard,New York,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1747,67,128084.94,541,0.493,3,58355.31,0.55,12,Unemployed,Platinum,New York,On-time,On-time,Missed,On-time,Late,On-time,1
+CUST_1748,44,64677.62,633,0.715,0,43906.96,0.241,6,Self-employed,Business,Houston,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1749,19,104856.12,436,0.515,1,59781.39,0.288,17,Employed,Platinum,Houston,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1750,22,54864.07,622,0.869,2,44757.93,0.114,5,Unemployed,Platinum,Chicago,On-time,Late,On-time,On-time,On-time,Missed,0
+CUST_1751,46,76290.98,762,0.343,2,17522.9,0.349,8,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1752,54,115477.08,457,0.681,0,66042.99,0.189,5,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1753,55,48828.93,597,0.482,0,5000.0,0.31,17,retired,Platinum,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1754,36,121922.28,520,0.436,4,23346.78,0.246,16,retired,Platinum,Phoenix,On-time,Missed,Late,Late,On-time,Missed,0
+CUST_1755,25,99120.19,618,0.578,3,38734.45,0.192,11,Employed,Platinum,Phoenix,On-time,Missed,On-time,On-time,On-time,On-time,1
+CUST_1756,65,128225.53,582,0.615,3,83304.89,0.22,2,Self-employed,Student,Houston,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1757,62,110601.27,522,0.642,5,20507.69,0.323,4,retired,Student,Chicago,Missed,Missed,Late,Late,Missed,Missed,1
+CUST_1758,18,184755.51,624,0.614,5,49537.89,0.172,6,Employed,Student,Los Angeles,Late,On-time,Missed,Missed,Late,On-time,1
+CUST_1759,39,105796.9,742,0.71,2,10905.22,0.225,9,Employed,Business,Houston,On-time,On-time,Late,On-time,On-time,Late,0
+CUST_1760,69,82429.03,563,0.647,3,14638.4,0.366,9,Employed,Business,Chicago,On-time,On-time,On-time,Missed,On-time,Late,0
+CUST_1761,34,105657.64,645,0.832,3,38134.08,0.55,18,Unemployed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1762,24,127696.24,464,0.582,2,94923.36,0.348,3,Self-employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1763,42,102223.05,494,0.616,6,42667.29,0.208,9,Employed,Gold,Chicago,Late,Missed,Missed,Missed,Missed,Missed,1
+CUST_1764,62,101843.41,623,0.446,2,56739.57,0.263,17,retired,Student,New York,Missed,Late,On-time,Late,On-time,Late,0
+CUST_1765,21,72913.51,714,0.392,4,42176.74,0.303,2,Self-employed,Standard,Chicago,Missed,On-time,On-time,On-time,On-time,On-time,0
+CUST_1766,53,74207.47,612,0.254,3,34720.89,0.265,2,Unemployed,Standard,Houston,On-time,On-time,Late,Missed,On-time,On-time,0
+CUST_1767,23,53196.78,552,0.533,2,26565.68,0.39,4,Employed,Standard,Chicago,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1768,48,219747.62,580,0.2,0,111239.62,0.322,15,Employed,Platinum,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1769,36,57135.85,467,0.699,6,5000.0,0.391,19,Self-employed,Gold,Phoenix,On-time,Missed,On-time,On-time,Late,Late,1
+CUST_1770,61,73212.26,634,0.449,5,27310.61,0.269,12,Employed,Gold,Houston,Missed,On-time,On-time,Late,On-time,Missed,0
+CUST_1771,71,72376.88,659,0.345,5,34642.68,0.433,10,Self-employed,Standard,Chicago,Missed,Late,On-time,Late,On-time,Missed,1
+CUST_1772,56,149588.2,539,0.134,1,88599.91,0.283,12,Unemployed,Platinum,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1773,44,87570.38,538,0.638,4,69648.26,0.203,18,Employed,Standard,Los Angeles,On-time,On-time,Missed,Late,Late,On-time,1
+CUST_1774,27,175327.23,604,0.647,4,74314.82,0.518,5,Unemployed,Standard,Houston,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1775,43,73854.68,541,0.559,1,36412.77,0.118,12,Employed,Platinum,Houston,On-time,Late,On-time,Missed,Late,On-time,0
+CUST_1776,36,113376.89,574,0.413,2,35660.66,0.226,3,Employed,Gold,Los Angeles,Late,Late,On-time,On-time,On-time,Late,0
+CUST_1777,56,68666.68,769,0.569,3,29830.8,0.237,4,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1778,20,262562.01,558,0.075,6,97453.16,0.55,18,Employed,Platinum,Los Angeles,Late,Missed,Missed,Missed,Late,On-time,1
+CUST_1779,62,58600.95,548,0.477,4,28049.52,0.481,4,Employed,Standard,New York,On-time,Missed,Late,On-time,On-time,Late,0
+CUST_1780,30,114960.61,522,0.743,1,50273.03,0.449,13,Unemployed,Student,Houston,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1781,67,133002.75,647,0.177,3,61616.7,0.267,3,Self-employed,Standard,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1782,45,120467.47,564,0.199,4,21935.22,0.543,11,Employed,Standard,Los Angeles,Missed,On-time,On-time,On-time,On-time,Late,0
+CUST_1783,37,92000.2,522,0.449,3,41019.8,0.337,5,Self-employed,Student,Phoenix,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1784,45,94325.43,699,0.292,3,20917.45,0.398,18,Employed,Platinum,New York,On-time,Late,On-time,On-time,Late,Missed,0
+CUST_1785,25,101991.08,708,0.661,5,51572.68,0.318,9,Employed,Standard,Houston,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1786,58,93598.96,526,0.268,2,39202.17,0.295,0,Self-employed,Standard,Chicago,On-time,On-time,Late,On-time,On-time,On-time,1
+CUST_1787,56,154302.63,412,0.368,6,36675.66,0.275,15,Self-employed,Student,New York,On-time,On-time,On-time,On-time,Late,Missed,0
+CUST_1788,18,270400.86,671,0.396,4,88785.82,0.279,3,Unemployed,Student,New York,Late,On-time,Missed,On-time,Late,On-time,1
+CUST_1789,20,77812.25,518,0.519,3,40214.17,0.361,8,Employed,Standard,Phoenix,On-time,On-time,On-time,Late,Late,Late,0
+CUST_1790,30,53987.84,651,0.302,0,27070.38,0.337,17,Self-employed,Platinum,Houston,On-time,On-time,On-time,On-time,Missed,On-time,1
+CUST_1791,45,96105.18,403,0.546,2,40684.89,0.297,16,Self-employed,Standard,Houston,Late,On-time,On-time,Late,On-time,Missed,0
+CUST_1792,74,300000.0,660,0.283,2,114067.53,0.451,14,retired,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1793,66,69652.36,471,0.425,1,25354.48,0.1,18,Employed,Standard,Los Angeles,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1794,42,209091.67,646,0.249,4,126973.05,0.351,6,Self-employed,Gold,New York,Late,Missed,On-time,Missed,On-time,On-time,0
+CUST_1795,73,212753.78,581,0.75,4,56932.44,0.372,17,Self-employed,Standard,Phoenix,Missed,On-time,Late,On-time,Late,Late,0
+CUST_1796,50,77949.06,494,0.627,2,47613.64,0.415,5,retired,Gold,Houston,On-time,On-time,On-time,Missed,Missed,On-time,0
+CUST_1797,55,129180.75,543,0.373,3,41577.69,0.294,18,Employed,Gold,Phoenix,Late,On-time,Late,Late,On-time,On-time,0
+CUST_1798,70,208085.42,642,0.86,6,107188.53,0.321,11,Employed,Gold,Chicago,On-time,On-time,Missed,Missed,On-time,On-time,1
+CUST_1799,23,84315.25,590,0.366,2,29581.63,0.399,2,Employed,Standard,Houston,Missed,On-time,On-time,On-time,Late,On-time,0
+CUST_1800,61,91245.99,633,0.446,2,24835.01,0.449,0,Employed,Gold,Los Angeles,Late,On-time,On-time,On-time,Missed,Late,1
+CUST_1801,62,76969.85,758,0.326,4,17027.06,0.27,4,Employed,Student,New York,On-time,Missed,On-time,Late,Late,On-time,0
+CUST_1802,49,63340.8,439,0.251,5,5987.39,0.327,0,Employed,Gold,Phoenix,On-time,On-time,Late,Missed,Late,On-time,1
+CUST_1803,62,74663.79,726,0.232,1,10503.26,0.468,7,Self-employed,Platinum,Los Angeles,Late,On-time,On-time,On-time,Late,On-time,0
+CUST_1804,64,57650.39,589,0.867,0,11969.97,0.1,6,Employed,Gold,New York,Late,On-time,On-time,On-time,Missed,On-time,0
+CUST_1805,38,101545.58,499,0.536,2,79960.53,0.231,14,Employed,Gold,Los Angeles,Late,On-time,On-time,On-time,Missed,Late,0
+CUST_1806,33,70716.73,460,0.357,4,41558.95,0.447,10,Employed,Gold,Houston,Missed,On-time,Missed,On-time,On-time,Late,0
+CUST_1807,71,111093.68,563,0.333,2,22040.89,0.409,17,Employed,Business,Phoenix,Late,On-time,On-time,Late,Late,On-time,1
+CUST_1808,38,49650.93,663,0.473,4,36300.39,0.352,13,retired,Standard,Chicago,Late,Missed,Missed,On-time,Late,On-time,0
+CUST_1809,28,116055.24,569,0.752,3,34118.06,0.255,8,Self-employed,Standard,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1810,54,145511.95,716,0.219,1,79463.56,0.212,4,Unemployed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1811,53,40771.74,449,0.308,3,10518.41,0.241,3,Employed,Business,Houston,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1812,52,118332.17,579,0.454,4,49901.91,0.455,11,retired,Business,Los Angeles,On-time,Late,On-time,On-time,Missed,Missed,1
+CUST_1813,36,173750.65,467,0.688,4,90941.4,0.237,0,Employed,Gold,Houston,Late,On-time,Missed,On-time,Missed,Missed,0
+CUST_1814,37,58022.55,613,0.16,3,32582.06,0.31,12,Self-employed,Gold,Chicago,On-time,Late,Missed,On-time,On-time,On-time,0
+CUST_1815,74,212263.36,660,0.624,1,68325.32,0.225,0,Employed,Platinum,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1816,35,120750.78,542,0.887,3,64406.81,0.384,2,Self-employed,Gold,New York,On-time,Missed,Missed,Missed,On-time,On-time,1
+CUST_1817,64,72814.48,346,0.724,4,53216.41,0.246,7,Self-employed,Platinum,New York,On-time,Late,Late,On-time,Missed,On-time,0
+CUST_1818,58,97521.62,598,0.492,3,28646.09,0.29,17,Employed,Student,New York,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1819,66,128562.77,619,0.16,1,45745.72,0.132,15,Employed,Platinum,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1820,31,103479.41,616,0.132,3,72921.24,0.139,19,Self-employed,Gold,New York,Late,On-time,Missed,Late,On-time,On-time,0
+CUST_1821,32,127435.5,691,0.57,5,29498.47,0.301,19,Employed,Gold,Phoenix,Late,Late,Missed,Late,Missed,Missed,1
+CUST_1822,48,66080.06,484,0.122,1,24961.88,0.167,15,Employed,Platinum,Houston,Late,On-time,On-time,Missed,On-time,On-time,0
+CUST_1823,18,107919.17,641,0.499,4,40143.49,0.511,1,Employed,Gold,Houston,On-time,On-time,On-time,On-time,Late,Missed,1
+CUST_1824,70,52931.5,687,0.282,1,11156.19,0.1,16,Employed,Gold,New York,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1825,71,95118.02,420,0.626,2,25868.45,0.22,9,Unemployed,Standard,New York,On-time,On-time,On-time,On-time,Late,Late,0
+CUST_1826,71,66580.5,609,0.653,2,31463.12,0.302,6,Employed,Standard,Houston,On-time,Late,Late,Missed,On-time,On-time,1
+CUST_1827,20,71821.34,535,0.647,1,37121.93,0.263,9,Employed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1828,33,174410.57,573,0.724,3,39660.42,0.19,18,Unemployed,Student,Chicago,On-time,Late,Late,On-time,Late,On-time,0
+CUST_1829,40,163409.57,611,0.578,5,66847.8,0.204,19,Self-employed,Standard,New York,Missed,On-time,Late,Late,On-time,Late,0
+CUST_1830,74,131536.23,536,0.707,5,23781.56,0.201,8,Employed,Gold,Chicago,Missed,Late,On-time,Missed,Missed,On-time,0
+CUST_1831,28,61168.32,519,0.566,2,10382.75,0.271,16,Unemployed,Standard,Phoenix,Missed,On-time,On-time,On-time,Late,On-time,0
+CUST_1832,29,86728.83,583,0.438,3,53278.99,0.495,8,Employed,Standard,Phoenix,Missed,On-time,Late,On-time,Missed,On-time,0
+CUST_1833,27,172615.08,482,0.109,0,70942.79,0.308,8,Employed,Business,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1834,49,106585.0,482,0.796,4,51874.53,0.418,4,retired,Student,Houston,Late,On-time,On-time,On-time,Late,On-time,1
+CUST_1835,33,283969.97,641,0.864,2,54017.35,0.351,6,retired,Standard,Houston,On-time,Missed,On-time,On-time,On-time,Missed,0
+CUST_1836,25,119362.28,477,0.434,6,36576.6,0.411,10,Employed,Platinum,Houston,On-time,On-time,On-time,Missed,Late,On-time,1
+CUST_1837,55,109026.64,640,0.391,1,24713.79,0.1,7,Employed,Standard,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1838,29,87013.89,622,0.147,4,59540.07,0.27,13,Employed,Business,Houston,Missed,Late,On-time,Late,Missed,On-time,0
+CUST_1839,41,106193.57,425,0.422,4,52486.67,0.431,1,Employed,Standard,New York,Late,On-time,Missed,Late,Missed,On-time,1
+CUST_1840,45,93368.94,519,0.524,2,14155.51,0.243,9,Employed,Standard,Chicago,Late,On-time,On-time,Late,On-time,On-time,0
+CUST_1841,70,137526.84,687,0.257,4,92062.94,0.476,15,Employed,Gold,New York,On-time,Missed,Missed,Missed,On-time,On-time,0
+CUST_1842,25,153805.1,492,0.266,1,48723.78,0.448,15,retired,Student,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1843,45,70208.89,538,0.508,1,31163.85,0.253,18,Unemployed,Standard,New York,On-time,Late,Late,On-time,On-time,On-time,0
+CUST_1844,53,54933.06,622,0.453,3,42159.04,0.25,10,Employed,Platinum,Phoenix,Missed,On-time,On-time,On-time,Late,On-time,0
+CUST_1845,43,43766.9,651,0.285,4,15105.37,0.199,5,Self-employed,Standard,Los Angeles,Missed,Late,Missed,On-time,Missed,Missed,1
+CUST_1846,25,125683.43,557,0.786,2,92744.38,0.237,5,Employed,Business,Houston,On-time,On-time,Late,On-time,Late,On-time,1
+CUST_1847,67,60864.81,526,0.05,2,41042.89,0.177,6,Employed,Standard,Los Angeles,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1848,45,37953.79,708,0.775,4,12908.72,0.343,15,Employed,Business,Los Angeles,On-time,Late,Missed,Late,On-time,Missed,1
+CUST_1849,45,119107.99,737,0.295,2,8239.69,0.154,12,Unemployed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1850,54,300000.0,668,0.485,3,114491.93,0.36,2,Employed,Gold,Los Angeles,Late,On-time,Late,On-time,Late,Missed,0
+CUST_1851,58,99727.18,588,0.558,2,60640.61,0.363,8,Unemployed,Business,Los Angeles,On-time,On-time,On-time,Missed,On-time,On-time,1
+CUST_1852,53,145837.22,507,0.482,1,28609.75,0.134,2,Self-employed,Business,Phoenix,On-time,On-time,Late,On-time,On-time,Late,1
+CUST_1853,44,103750.96,505,0.483,4,62508.52,0.455,5,Employed,Platinum,Chicago,On-time,Late,Missed,Late,On-time,On-time,0
+CUST_1854,71,95647.53,627,0.45,3,35703.4,0.351,16,Employed,Standard,New York,Missed,On-time,On-time,Late,Missed,On-time,0
+CUST_1855,34,151222.85,618,0.488,2,41417.45,0.375,2,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1856,26,87754.81,706,0.655,4,42529.1,0.224,1,retired,Gold,Houston,Late,Late,Missed,On-time,On-time,Missed,0
+CUST_1857,50,112786.51,639,0.67,1,34315.26,0.362,11,Self-employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1858,70,115576.68,445,0.228,4,62436.71,0.413,5,Employed,Gold,Los Angeles,On-time,On-time,Missed,On-time,On-time,On-time,0
+CUST_1859,37,74034.37,675,0.772,0,11330.89,0.29,9,Self-employed,Standard,Chicago,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1860,30,156270.62,490,0.255,3,96911.06,0.5,10,Employed,Platinum,Chicago,Late,On-time,On-time,On-time,Late,Late,1
+CUST_1861,45,92428.77,545,0.713,4,37993.03,0.304,15,retired,Platinum,Houston,Missed,Missed,Late,Late,Late,Late,1
+CUST_1862,65,71170.96,603,0.61,3,5000.0,0.414,15,Self-employed,Standard,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1863,46,127306.76,760,0.236,1,41630.0,0.329,17,Self-employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1864,30,66743.68,850,0.72,0,36090.27,0.359,8,Employed,Gold,Chicago,Late,Late,On-time,On-time,On-time,Late,0
+CUST_1865,63,101276.23,635,0.61,3,12802.5,0.133,18,Self-employed,Platinum,Chicago,Late,On-time,On-time,Late,On-time,Late,0
+CUST_1866,52,99590.49,564,0.564,2,31693.28,0.337,1,Employed,Standard,New York,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1867,23,163011.9,628,0.372,3,75719.68,0.227,0,Employed,Platinum,Chicago,On-time,Missed,On-time,On-time,On-time,Late,0
+CUST_1868,35,123814.49,660,0.556,2,46611.48,0.215,15,Employed,Standard,Phoenix,Late,Late,Late,On-time,On-time,On-time,0
+CUST_1869,68,98880.1,551,0.28,6,56949.57,0.474,17,retired,Gold,New York,Late,Missed,Late,Missed,Late,Missed,1
+CUST_1870,22,144483.46,742,0.48,4,75629.82,0.279,2,Self-employed,Student,Houston,Missed,On-time,On-time,On-time,Missed,Late,0
+CUST_1871,64,186935.49,601,0.223,2,21836.56,0.2,0,Employed,Platinum,Chicago,Late,On-time,On-time,On-time,On-time,On-time,1
+CUST_1872,42,128532.89,625,0.811,3,49350.47,0.264,5,Unemployed,Standard,Phoenix,On-time,Late,On-time,On-time,Late,Late,1
+CUST_1873,19,100466.95,640,0.496,6,54705.21,0.17,18,Employed,Gold,New York,Missed,Late,Missed,Late,On-time,On-time,0
+CUST_1874,27,55414.64,618,0.433,4,24048.26,0.443,18,Employed,Business,Phoenix,On-time,On-time,On-time,On-time,Late,Missed,0
+CUST_1875,73,61921.6,656,0.61,1,21804.85,0.23,10,Employed,Standard,New York,On-time,On-time,Late,On-time,Late,On-time,0
+CUST_1876,47,87166.41,524,0.834,0,10912.88,0.353,7,Self-employed,Student,New York,On-time,Late,On-time,On-time,On-time,Late,0
+CUST_1877,67,76011.88,530,0.335,6,19755.55,0.436,4,Employed,Platinum,New York,Late,Missed,Missed,On-time,On-time,On-time,1
+CUST_1878,62,91930.52,481,0.593,4,5000.0,0.25,19,Employed,Student,Houston,Missed,Late,On-time,On-time,On-time,Late,1
+CUST_1879,22,102582.02,620,0.545,2,46903.79,0.353,8,Self-employed,Standard,New York,Late,Late,On-time,Missed,On-time,Late,1
+CUST_1880,72,126916.82,650,0.499,0,25890.52,0.197,14,Employed,Standard,New York,Late,On-time,Late,On-time,On-time,On-time,0
+CUST_1881,73,96877.35,621,0.074,6,31536.82,0.545,13,Unemployed,Business,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1882,50,124473.88,731,0.632,6,65824.1,0.394,3,Employed,Gold,New York,On-time,Late,Missed,On-time,On-time,On-time,0
+CUST_1883,71,102943.85,579,0.688,2,12640.22,0.281,7,Unemployed,Standard,Houston,On-time,On-time,On-time,On-time,Late,On-time,1
+CUST_1884,18,41108.31,640,0.754,4,5000.0,0.223,19,Self-employed,Platinum,Phoenix,Missed,Missed,Late,On-time,On-time,On-time,0
+CUST_1885,35,65527.46,482,0.665,2,5000.0,0.289,16,Self-employed,Standard,New York,On-time,Missed,Missed,Missed,On-time,Late,0
+CUST_1886,49,93721.8,545,0.416,1,42487.38,0.266,1,Employed,Student,Phoenix,On-time,On-time,Missed,On-time,Late,On-time,0
+CUST_1887,64,58021.15,643,0.293,5,25150.98,0.495,19,Self-employed,Platinum,Houston,Late,Missed,Late,Missed,On-time,Missed,1
+CUST_1888,66,130992.24,656,0.087,6,64707.53,0.177,15,Employed,Student,Phoenix,Late,Late,Late,Missed,Missed,Late,0
+CUST_1889,28,199139.99,554,0.661,0,21686.91,0.313,9,Unemployed,Student,Houston,Late,On-time,Missed,On-time,Missed,On-time,1
+CUST_1890,38,173055.62,574,0.516,2,97517.99,0.298,1,Employed,Standard,Chicago,Late,Late,Late,Late,On-time,On-time,0
+CUST_1891,43,90841.92,443,0.502,0,39011.01,0.288,10,Employed,Gold,New York,Missed,On-time,On-time,Late,On-time,On-time,0
+CUST_1892,42,195585.37,548,0.33,4,109172.44,0.289,9,Self-employed,Student,Houston,Late,Late,Late,Late,Late,Late,1
+CUST_1893,39,106918.89,660,0.16,4,28845.44,0.288,18,Self-employed,Gold,New York,On-time,On-time,On-time,On-time,Missed,Late,0
+CUST_1894,44,85925.57,632,0.875,3,54338.23,0.387,13,Employed,Business,Houston,On-time,Late,Missed,On-time,On-time,Late,0
+CUST_1895,66,75878.93,625,0.779,1,29650.53,0.361,10,retired,Platinum,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1896,30,87274.54,584,0.796,3,32636.95,0.342,8,retired,Standard,Los Angeles,Missed,On-time,On-time,Late,Missed,Missed,0
+CUST_1897,50,83972.61,581,0.821,2,22332.26,0.1,6,Self-employed,Student,Los Angeles,On-time,On-time,Late,Late,Late,Missed,0
+CUST_1898,51,107970.44,521,0.542,3,8350.71,0.33,14,Employed,Standard,Houston,On-time,On-time,Missed,Missed,Missed,On-time,0
+CUST_1899,58,107493.3,643,0.444,3,55140.48,0.134,19,Self-employed,Standard,New York,On-time,On-time,Late,On-time,Late,Late,0
+CUST_1900,52,100137.16,618,0.417,4,40873.18,0.365,16,Employed,Platinum,Los Angeles,Late,On-time,On-time,Missed,Missed,Late,0
+CUST_1901,18,121728.4,624,0.371,5,87594.43,0.447,2,Employed,Student,New York,On-time,Missed,Late,On-time,On-time,Late,0
+CUST_1902,38,170879.91,533,0.382,2,25430.48,0.207,14,retired,Gold,Houston,Late,Late,Missed,On-time,Late,On-time,0
+CUST_1903,65,153311.15,386,0.587,6,64081.83,0.274,13,retired,Standard,New York,Missed,Missed,Missed,Missed,Missed,Missed,1
+CUST_1904,72,51262.84,679,0.261,2,25993.93,0.24,7,retired,Gold,New York,On-time,Late,Late,Late,On-time,Missed,0
+CUST_1905,23,31686.97,537,0.534,4,15229.73,0.424,3,Employed,Standard,Los Angeles,Late,Missed,Late,Late,On-time,Late,0
+CUST_1906,45,152263.74,502,0.208,0,87720.86,0.31,9,Employed,Standard,Phoenix,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1907,34,54058.93,642,0.492,6,29258.32,0.473,1,Employed,Standard,Chicago,Late,Missed,Missed,Late,On-time,Late,0
+CUST_1908,22,90380.25,545,0.532,2,33911.76,0.341,13,Employed,Platinum,Houston,On-time,Late,On-time,Late,On-time,On-time,0
+CUST_1909,48,59063.87,675,0.787,1,17549.47,0.324,7,Employed,Business,Houston,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1910,22,44446.18,636,0.258,6,19480.95,0.307,9,Employed,Standard,Houston,Late,Late,Missed,Missed,Missed,Missed,1
+CUST_1911,55,127590.82,642,0.341,3,57637.24,0.382,17,Self-employed,Standard,Chicago,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1912,20,140722.52,457,0.377,6,34122.84,0.126,14,Unemployed,Student,Phoenix,Late,Missed,Late,On-time,Missed,On-time,0
+CUST_1913,70,77149.15,689,0.648,1,56270.78,0.309,4,Self-employed,Platinum,New York,Missed,On-time,On-time,On-time,On-time,On-time,0
+CUST_1914,40,31162.05,604,0.268,5,28466.16,0.293,12,Unemployed,Business,Houston,Late,Missed,On-time,On-time,Late,On-time,0
+CUST_1915,54,78207.08,547,0.4,4,37140.46,0.373,17,Employed,Standard,New York,On-time,On-time,Missed,On-time,Late,On-time,1
+CUST_1916,70,119280.99,593,0.721,4,5000.0,0.281,1,Employed,Standard,Los Angeles,On-time,On-time,Late,Late,Late,Late,0
+CUST_1917,54,51401.12,420,0.662,4,49166.73,0.196,12,Unemployed,Gold,Los Angeles,Missed,Missed,On-time,Late,Missed,Missed,1
+CUST_1918,27,108601.17,617,0.288,1,28131.68,0.301,13,Employed,Platinum,Los Angeles,Late,On-time,On-time,On-time,On-time,On-time,0
+CUST_1919,27,99313.42,487,0.423,1,37124.18,0.192,9,Self-employed,Gold,Houston,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1920,36,129781.38,458,0.574,6,45939.84,0.107,3,Employed,Gold,Chicago,Late,Late,On-time,On-time,Late,Late,1
+CUST_1921,34,105528.53,443,0.819,6,82850.63,0.373,14,Employed,Standard,Houston,Missed,Missed,Missed,Missed,Missed,On-time,1
+CUST_1922,38,64540.26,680,0.745,4,50067.73,0.358,7,Self-employed,Gold,Los Angeles,On-time,On-time,On-time,Late,On-time,Missed,0
+CUST_1923,31,171336.14,523,0.633,2,95293.75,0.347,14,Unemployed,Platinum,Los Angeles,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_1924,26,93114.68,718,0.383,3,74883.86,0.43,13,retired,Gold,Houston,On-time,On-time,On-time,On-time,Late,Missed,0
+CUST_1925,63,98778.81,532,0.295,3,27549.81,0.233,8,Employed,Platinum,Chicago,On-time,On-time,On-time,On-time,Late,Missed,0
+CUST_1926,18,65706.61,426,0.237,5,26068.48,0.157,19,Employed,Gold,Chicago,On-time,On-time,On-time,On-time,On-time,Late,0
+CUST_1927,68,81915.91,480,0.236,1,15060.95,0.293,2,Unemployed,Standard,New York,On-time,Late,On-time,On-time,Late,Missed,0
+CUST_1928,62,67155.38,691,0.401,2,17368.31,0.265,14,Employed,Standard,Phoenix,On-time,Late,Late,On-time,Late,Missed,0
+CUST_1929,30,92512.56,566,0.338,3,19816.25,0.216,16,Employed,Gold,Los Angeles,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1930,21,216034.69,531,0.294,2,81847.34,0.292,15,retired,Standard,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1931,18,53936.89,594,0.207,4,12841.52,0.239,3,Unemployed,Platinum,Los Angeles,On-time,Late,Missed,On-time,Missed,Late,1
+CUST_1932,66,48379.08,625,0.304,5,8714.75,0.116,10,retired,Student,Phoenix,Missed,Missed,Late,Late,Missed,On-time,1
+CUST_1933,57,193871.75,681,0.963,2,131951.36,0.256,7,Employed,Gold,Los Angeles,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1934,49,91010.47,710,0.65,4,49223.36,0.186,2,Employed,Standard,Chicago,On-time,On-time,Missed,Late,Late,On-time,0
+CUST_1935,51,74001.65,548,0.169,2,25832.64,0.323,18,Unemployed,Business,New York,On-time,Missed,On-time,On-time,On-time,On-time,0
+CUST_1936,45,159672.89,461,0.73,3,71726.34,0.234,13,Employed,Standard,Houston,Late,On-time,Late,Late,On-time,Missed,1
+CUST_1937,48,76145.29,543,0.332,3,36466.38,0.411,8,Unemployed,Standard,Houston,On-time,Late,On-time,On-time,On-time,On-time,1
+CUST_1938,25,227437.29,603,0.202,5,111334.36,0.46,2,Employed,Gold,Chicago,On-time,On-time,Late,On-time,Late,Missed,1
+CUST_1939,56,135671.54,493,0.073,3,46919.43,0.368,3,Unemployed,Platinum,Chicago,On-time,Late,On-time,On-time,Late,On-time,1
+CUST_1940,43,80287.19,494,0.765,3,33284.95,0.145,3,Self-employed,Standard,Phoenix,On-time,Missed,On-time,On-time,Missed,Late,1
+CUST_1941,51,264002.58,611,0.7,4,69919.71,0.451,10,Employed,Gold,Los Angeles,Late,Late,Late,On-time,Missed,Late,0
+CUST_1942,71,76141.88,576,0.428,1,36558.88,0.458,18,Employed,Gold,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1943,71,139646.34,583,0.758,2,94204.84,0.302,15,Self-employed,Standard,Houston,Missed,On-time,Late,On-time,Missed,On-time,1
+CUST_1944,20,114417.25,512,0.151,2,28499.03,0.432,16,Self-employed,Standard,Los Angeles,On-time,On-time,Late,Late,Late,Late,1
+CUST_1945,67,179639.81,559,0.502,3,103792.87,0.245,9,Employed,Platinum,Phoenix,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1946,29,201915.69,497,0.506,1,68016.59,0.113,16,Unemployed,Platinum,Houston,Missed,On-time,On-time,On-time,Late,On-time,1
+CUST_1947,18,101450.61,660,0.508,3,23176.6,0.224,15,Employed,Standard,Los Angeles,On-time,On-time,On-time,Missed,On-time,Late,1
+CUST_1948,71,71245.53,673,0.353,3,45139.75,0.473,19,Employed,Standard,New York,Late,On-time,Late,On-time,On-time,On-time,0
+CUST_1949,61,122996.72,414,0.819,2,60403.08,0.151,5,Employed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1950,22,73714.41,496,0.305,0,17604.26,0.3,6,retired,Student,Phoenix,On-time,On-time,On-time,Missed,On-time,On-time,0
+CUST_1951,47,247446.51,445,0.839,1,64697.89,0.303,13,Employed,Standard,Chicago,On-time,On-time,On-time,Missed,On-time,On-time,1
+CUST_1952,47,106336.76,521,0.771,3,31848.52,0.249,10,Employed,Gold,Los Angeles,On-time,Late,Missed,On-time,Late,On-time,0
+CUST_1953,74,84840.71,572,0.531,2,48494.86,0.256,11,Unemployed,Standard,Phoenix,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1954,34,108665.71,450,0.122,0,58987.84,0.307,13,Employed,Standard,Chicago,On-time,On-time,On-time,On-time,Missed,On-time,0
+CUST_1955,65,54541.58,497,0.346,3,26477.75,0.244,4,Employed,Standard,Chicago,On-time,On-time,On-time,Late,On-time,On-time,0
+CUST_1956,64,64582.53,490,0.321,1,11426.07,0.158,4,Employed,Student,Los Angeles,On-time,On-time,Late,Late,Late,On-time,0
+CUST_1957,40,171632.65,599,0.39,6,36021.56,0.322,19,Unemployed,Gold,Los Angeles,On-time,On-time,Missed,On-time,Late,Missed,1
+CUST_1958,32,74408.32,586,0.526,4,5000.0,0.407,14,Self-employed,Student,Chicago,On-time,Late,Missed,Missed,Late,On-time,0
+CUST_1959,54,62430.89,515,0.252,3,30297.9,0.387,0,Unemployed,Platinum,Houston,On-time,Late,Late,Late,On-time,On-time,1
+CUST_1960,38,127314.95,596,0.22,1,75515.02,0.219,8,Unemployed,Student,Phoenix,On-time,On-time,On-time,On-time,On-time,Missed,0
+CUST_1961,31,170500.3,531,0.409,4,87083.98,0.175,2,Self-employed,Standard,Los Angeles,On-time,On-time,Late,Late,On-time,Missed,0
+CUST_1962,19,138199.62,556,0.354,2,41038.22,0.272,3,Self-employed,Standard,Chicago,On-time,Late,Late,On-time,On-time,On-time,0
+CUST_1963,28,156552.54,731,0.548,3,94269.36,0.457,15,Employed,Business,Houston,Late,Late,On-time,On-time,On-time,Late,1
+CUST_1964,68,71137.34,701,0.05,5,33878.01,0.365,6,Employed,Platinum,New York,On-time,Late,Late,Missed,Late,On-time,0
+CUST_1965,56,52739.01,463,0.435,2,5000.0,0.37,13,Self-employed,Student,Chicago,Late,Late,Late,On-time,Missed,On-time,0
+CUST_1966,55,196521.2,655,0.618,0,110703.47,0.389,15,retired,Standard,Houston,Late,Missed,On-time,On-time,On-time,On-time,0
+CUST_1967,51,86484.42,653,0.299,3,27988.85,0.342,17,Employed,Gold,New York,Late,On-time,Missed,Late,Late,On-time,0
+CUST_1968,55,89326.24,477,0.648,3,20041.8,0.312,15,Employed,Platinum,Houston,On-time,On-time,Missed,Missed,Late,On-time,0
+CUST_1969,67,181790.98,654,0.634,4,64894.72,0.366,15,Employed,Standard,Los Angeles,On-time,On-time,On-time,Missed,On-time,Late,0
+CUST_1970,51,128441.52,718,0.643,6,39451.41,0.245,1,Employed,Gold,Chicago,Late,Missed,Missed,Late,On-time,Missed,0
+CUST_1971,35,122770.86,479,0.73,5,43854.29,0.159,9,Employed,Gold,New York,Missed,Late,On-time,Late,On-time,Missed,1
+CUST_1972,47,264918.24,497,0.589,1,62267.2,0.372,6,Employed,Standard,Houston,Missed,Missed,On-time,On-time,On-time,On-time,0
+CUST_1973,32,74857.55,672,0.466,4,21395.37,0.424,14,Employed,Standard,New York,On-time,Late,On-time,On-time,On-time,On-time,0
+CUST_1974,44,151820.4,604,0.296,1,69481.69,0.188,8,Self-employed,Standard,Phoenix,On-time,On-time,On-time,Late,On-time,On-time,1
+CUST_1975,68,102598.79,630,0.05,3,63398.75,0.382,6,Employed,Standard,Chicago,Late,On-time,Missed,Late,On-time,Late,0
+CUST_1976,51,112847.43,611,0.762,3,57092.36,0.468,15,Self-employed,Platinum,Los Angeles,Late,On-time,On-time,On-time,Late,Missed,1
+CUST_1977,69,198935.56,615,0.456,3,62085.44,0.3,2,Unemployed,Standard,New York,On-time,On-time,Late,On-time,Late,Late,1
+CUST_1978,74,125674.63,461,0.701,2,28706.42,0.218,16,retired,Standard,Houston,On-time,Missed,On-time,Missed,Late,Late,0
+CUST_1979,55,127409.13,674,0.421,4,27024.62,0.312,7,Self-employed,Student,New York,On-time,On-time,On-time,Missed,Late,On-time,1
+CUST_1980,50,162032.75,685,0.725,3,49738.02,0.245,1,Employed,Gold,Houston,On-time,On-time,On-time,On-time,On-time,On-time,1
+CUST_1981,41,84854.79,559,0.41,1,38965.41,0.238,19,retired,Gold,New York,On-time,On-time,On-time,On-time,On-time,On-time,0
+CUST_1982,32,68547.42,576,0.476,1,25420.92,0.343,2,Self-employed,Platinum,Los Angeles,Missed,On-time,On-time,On-time,On-time,Late,1
+CUST_1983,47,62489.97,442,0.422,4,28908.58,0.14,7,Employed,Business,Los Angeles,Missed,Late,On-time,Late,Late,On-time,1
+CUST_1984,72,41277.18,626,0.458,5,36683.77,0.156,1,Employed,Standard,Chicago,On-time,On-time,Missed,Late,Missed,Late,1
+CUST_1985,59,252260.78,631,0.318,2,72359.58,0.302,18,Employed,Gold,Los Angeles,Late,On-time,On-time,Late,On-time,On-time,1
+CUST_1986,68,60869.15,574,0.368,2,12290.48,0.298,16,Employed,Platinum,New York,On-time,On-time,On-time,On-time,On-time,Late,1
+CUST_1987,34,90523.19,681,0.491,6,37574.95,0.334,4,Employed,Standard,New York,Late,Late,Missed,Late,Late,Missed,1
+CUST_1988,22,88288.0,550,0.619,2,23177.95,0.488,19,retired,Student,Los Angeles,Late,Late,On-time,On-time,Late,On-time,1
+CUST_1989,46,114835.79,631,0.864,4,23488.77,0.31,16,Employed,Business,Phoenix,On-time,On-time,On-time,Missed,On-time,Late,1
+CUST_1990,21,144351.59,488,0.321,3,35874.27,0.36,9,Self-employed,Business,New York,On-time,On-time,Late,Missed,On-time,On-time,1
+CUST_1991,27,147287.03,578,0.23,2,30888.29,0.202,8,Unemployed,Standard,Chicago,On-time,On-time,Late,Late,Late,On-time,0
+CUST_1992,73,76921.49,564,0.123,4,6641.59,0.377,5,Unemployed,Standard,Phoenix,On-time,On-time,Late,Missed,On-time,On-time,1
+CUST_1993,34,92755.35,600,0.331,1,58328.92,0.247,10,Unemployed,Business,Los Angeles,Late,Missed,Missed,On-time,On-time,Missed,0
+CUST_1994,27,113559.98,547,0.437,2,61661.28,0.307,1,retired,Gold,Houston,On-time,On-time,On-time,On-time,Late,On-time,0
+CUST_1995,34,89412.38,568,0.52,2,21164.44,0.289,11,Employed,Standard,New York,On-time,Late,Missed,Late,Missed,On-time,0
+CUST_1996,37,206123.54,654,0.599,1,50294.95,0.403,11,retired,Platinum,Houston,On-time,On-time,Missed,On-time,On-time,On-time,1
+CUST_1997,41,124724.7,541,0.371,4,77733.79,0.169,15,Self-employed,Standard,Chicago,Missed,Late,Missed,On-time,On-time,On-time,1
+CUST_1998,22,139193.52,435,0.586,5,32779.49,0.1,11,Employed,Standard,Phoenix,On-time,Missed,Late,On-time,On-time,Late,1
+CUST_1999,51,134756.14,737,0.583,2,40413.71,0.279,17,Self-employed,Student,Houston,On-time,On-time,Late,On-time,On-time,On-time,0
+CUST_2000,23,169564.51,704,0.325,2,22227.9,0.347,12,Self-employed,Standard,Chicago,Late,Late,On-time,Late,On-time,Missed,0
