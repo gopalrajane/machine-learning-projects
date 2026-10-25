@@ -8,11 +8,12 @@ Streamlit Cloud par deploy karte time, repo me yeh file + titanic_model.pkl +
 requirements.txt same folder me hone chahiye.
 """
 
+import os
 import pickle
 import pandas as pd
 import streamlit as st
 
-MODEL_PATH = "titanic_model.pkl"
+MODEL_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "titanic_model.pkl")
 
 
 @st.cache_resource
